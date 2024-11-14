@@ -1,0 +1,27 @@
+{
+  "links": [
+    {
+      "title": "Game Launchers",
+      "games": [
+        [
+          "Ampler Launcher",
+          "https://vulen76.web.app/games/other/ampler-launcher/images/logo.png",
+          "https://vulen76.web.app/games/other/ampler-launcher/index.html",
+          "Play different versions of minecraft! Made by IRV77"
+        ],
+        [
+          "Fancade",
+          "https://vulen76.web.app/games/other/fancade/images/fancade.jpg",
+          "https://vulen76.web.app/games/other/fancade/index.html",
+          "Fancade is a simulated mobile gaming console where you can build, code and share games with user made blocks."
+        ],
+        [
+          "Five Nights at Freddy's Launcher",
+          "https://vulen76.web.app/games/other/fnaf-launcher/images/logo.png",
+          "https://vulen76.web.app/games/other/fnaf-launcher/index.html",
+          "Smooth launcher for the fnaf games! Made by IRV77"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "links": [
+    {
+      "title": "Emulator Games",
+      "games": [
+        [
+          "Banjo Kazooie",
+          "https://vulen76.web.app/games/other/webretro/thumb/banjo.png",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=banjo.z64",
+          ""
+        ],
+        [
+          "Batman",
+          "https://vulen76.web.app/games/other/example/bm.jpg",
+          "https://vulen76.web.app/games/other/example/batman.html",
+          ""
+        ],
+        [
+          "Contra",
+          "https://vulen76.web.app/games/other/miscgame/cont.jpg",
+          "https://vulen76.web.app/games/other/miscgame/contracool.html",
+          ""
+        ],
+        [
+          "Doom",
+          "https://vulen76.web.app/games/other/dos/Doom.jpg",
+          "https://vulen76.web.app/games/other/doom/index.html",
+          "Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. Players assume the role of a space marine, popularly known as Doomguy, fighting their way through hordes of invading demons from hell"
+        ],
+        [
+          "Double Dragon",
+          "https://vulen76.web.app/games/other/miscgame/dd.jpg",
+          "https://vulen76.web.app/games/other/miscgame/doubled.html",
+          ""
+        ],
+        [
+          "Duck Tales",
+          "https://vulen76.web.app/games/other/example/dt.png",
+          "https://vulen76.web.app/games/other/example/ducktales.html",
+          ""
+        ],
+        [
+          "Earthbound",
+          "https://vulen76.web.app/games/other/webretro/thumb/earthbound.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=earthbound.sfc",
+          ""
+        ],
+        [
+          "Earthbound Zero",
+          "https://vulen76.web.app/games/other/webretro/thumb/mother.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=mother.nes",
+          ""
+        ],
+        [
+          "Excite Bike",
+          "https://vulen76.web.app/games/other/example/eb.jpg",
+          "https://vulen76.web.app/games/other/example/excitebike.html",
+          ""
+        ],
+        [
+          "Fix it Felix Jr.",
+          "https://vulen76.web.app/games/other/webretro/thumb/felix.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=genesis_plus_gx&rom=felix.bin",
+          ""
+        ],
+        [
+          "Final Fantasy",
+          "https://vulen76.web.app/games/other/webretro/thumb/finalfantasy.webp",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=finalfantasy.nes",
+          ""
+        ],
+        [
+          "Friday the 13th",
+          "https://vulen76.web.app/games/other/example/ft13.png",
+          "https://vulen76.web.app/games/other/example/f13.html",
+          ""
+        ],
+        [
+          "Kirby - Super Star",
+          "https://vulen76.web.app/games/other/webretro/thumb/kirbo.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=kirbo.smc",
+          ""
+        ],
+        [
+          "Mario &; Luigi - Superstar Saga",
+          "https://vulen76.web.app/games/other/webretro/thumb/superstar-saga.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=superstar-saga.gba",
+          ""
+        ],
+        [
+          "Mario Kart 64",
+          "https://vulen76.web.app/games/other/webretro/thumb/mk64.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=mk64.z64",
+          ""
+        ],
+        [
+          "Mario Kart DS",
+          "https://vulen76.web.app/games/other/webretro/thumb/mkds.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=mkds.nds",
+          ""
+        ],
+        [
+          "Mega Man 2",
+          "https://vulen76.web.app/games/other/miscgame/mm2.jpg",
+          "https://vulen76.web.app/games/other/miscgame/megamandos.html",
+          ""
+        ],
+        [
+          "Mike Tysons Punch Out",
+          "https://vulen76.web.app/games/other/webretro/thumb/mtpo.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=mtpo.nes",
+          ""
+        ],
+        [
+          "Mother 3",
+          "https://vulen76.web.app/games/other/webretro/thumb/mother3.png",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=mother3.gba",
+          ""
+        ],
+        [
+          "New Super Mario Bros",
+          "https://vulen76.web.app/games/other/webretro/thumb/nsmb.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=nsmb.nds",
+          ""
+        ],
+        [
+          "Paper Mario 64",
+          "https://vulen76.web.app/games/other/webretro/thumb/pm64.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=pm64.z64",
+          ""
+        ],
+        [
+          "Pokemon Sapphire",
+          "https://vulen76.web.app/games/other/webretro/thumb/pokemon-sapphire.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=pokemon-sapphire.gba",
+          ""
+        ],
+        [
+          "River City Ransom",
+          "https://vulen76.web.app/games/other/example/rcr.jpg",
+          "https://vulen76.web.app/games/other/example/rivercity.html",
+          ""
+        ],
+        [
+          "Super Mario 64",
+          "https://vulen76.web.app/games/other/sm64/sm64.jpg",
+          "https://vulen76.web.app/games/other/sm64/index.html",
+          ""
+        ],
+        [
+          "Super Mario Bros.",
+          "https://vulen76.web.app/games/other/miscgame/sm.png",
+          "https://vulen76.web.app/games/other/miscgame/mariones.html",
+          ""
+        ],
+        [
+          "Super Mario Bros. 2",
+          "https://vulen76.web.app/games/other/example/sm2.jpg",
+          "https://vulen76.web.app/games/other/example/sm2.html",
+          ""
+        ],
+        [
+          "Super Mario Bros. 3",
+          "https://vulen76.web.app/games/other/example/sm3.jpg",
+          "https://vulen76.web.app/games/other/example/sm3.html",
+          ""
+        ],
+        [
+          "Super Mario Kart",
+          "https://vulen76.web.app/games/other/webretro/thumb/smk.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=smk.smc",
+          ""
+        ],
+        [
+          "Super Mario RPG",
+          "https://vulen76.web.app/games/other/webretro/thumb/smrpg.webp",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=smrpg.smc",
+          ""
+        ],
+        [
+          "Super Mario World",
+          "https://vulen76.web.app/games/other/webretro/thumb/super-mario-world.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=world.smc",
+          ""
+        ],
+        [
+          "Sonic Advance",
+          "https://vulen76.web.app/games/other/webretro/thumb/sonic-advance.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=sonic-advance.gba",
+          ""
+        ],
+        [
+          "Super Metroid",
+          "https://vulen76.web.app/games/other/webretro/thumb/supermetroid.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=metroid.sfc",
+          ""
+        ],
+        [
+          "Super Street Fighter II TURBO",
+          "https://vulen76.web.app/games/other/dos/ssf2t.jpg",
+          "https://vulen76.web.app/games/other/dos/ssf2t.html",
+          "Super Street Fighter II Turbo[a] is a fighting game released for the arcades by Capcom in Japan on February 23, 1994, in North America on February 23 and March 26, 1994”."
+        ],
+        [
+          "The Legend of Zelda",
+          "https://vulen76.web.app/games/other/miscgame/zeld.png",
+          "https://vulen76.web.app/games/other/miscgame/zeldanes.html",
+          ""
+        ],
+        [
+          "The Legend of Zelda - A Link to the Past",
+          "https://vulen76.web.app/games/other/webretro/thumb/linktothepast.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=linktothepast.smc",
+          ""
+        ],
+        [
+          "The Legend Of Zelda - Links Awakening",
+          "https://vulen76.web.app/games/other/webretro/thumb/linksawakeningdx.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=LinksAwakeningDX.gbc",
+          ""
+        ],
+        [
+          "The Legend of Zelda - The Minish Cap",
+          "https://vulen76.web.app/games/other/webretro/thumb/minish-cap.jpg",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=minish-cap.gba",
+          ""
+        ],
+        [
+          "The Oregon Trail Deluxe",
+          "https://vulen76.web.app/games/other/dos/tot.png",
+          "https://vulen76.web.app/games/other/dos/tot.html",
+          "Oregon Trail Deluxe is one of the educational/edutainment computer game series produced by MECC. The game was released in 1974 and was inspired by the real-life Oregon Trail. Set in 1848, you will lead a party of settlers from Independence, Missouri, to Willamette Valley, Oregon using a Conestoga wagon."
+        ],
+        [
+          "Wario Land 4",
+          "https://vulen76.web.app/games/other/webretro/thumb/warioland4.png",
+          "https://vulen76.web.app/games/other/webretro/index.html?core=autodetect&rom=warioland4.gba",
+          "Wario Land 4 is a 2001 platform game developed by Nintendo and released for the Game Boy Advance. Wario has to gather four treasures to unlock a pyramid and save Princess Shokora from the Golden Diva."
+        ]
+      ]
+    }
+  ]
+}

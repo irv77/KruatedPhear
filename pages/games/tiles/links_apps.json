@@ -1,0 +1,57 @@
+{
+  "links": [
+    {
+      "title": "Tools",
+      "games": [
+        [
+          "30 Dollar Soundboard",
+          "https://vulen76.web.app/games/other/sdw/logo.png",
+          "https://vulen76.web.app/games/other/sdw/index.html",
+          ""
+        ],
+        [
+          "DVD Bounce",
+          "https://vulen76.web.app/games/other/dvd-bounce/logo.png",
+          "https://vulen76.web.app/games/other/dvd-bounce/index.html",
+          ""
+        ],
+        [
+          "Fake Update",
+          "https://vulen76.web.app/games/other/fakeupdate/assets/img/1.png",
+          "https://vulen76.web.app/games/other/fakeupdate/index.html",
+          ""
+        ],
+        [
+          "HTML Editor",
+          "https://vulen76.web.app/games/other/htmleditor/html.png",
+          "https://vulen76.web.app/games/other/htmleditor/index.html",
+          "A live HTML Editor written in, you guessed it, HTML (and css and javascript)"
+        ],
+        [
+          "NetSpate",
+          "https://vulen77.web.app/assets/images/logos/netspate.png",
+          "https://netspate.web.app/pages/home.html",
+          ""
+        ],
+        [
+          "Strange Insults",
+          "https://vulen76.web.app/games/other/strange-insults/logo.png",
+          "https://vulen76.web.app/games/other/strange-insults/index.html",
+          ""
+        ],
+        [
+          "Ruffle",
+          "https://vulen76.web.app/images/ruffle.png",
+          "https://vulen76.web.app/games/flash/index.html",
+          ""
+        ],
+        [
+          "WebRetro",
+          "https://vulen76.web.app/games/other/webretro/assets/icons/icon204.png",
+          "https://vulen76.web.app/games/other/webretro/index.html",
+          "WebRetro is an everything emulator for your browser"
+        ]
+      ]
+    }
+  ]
+}
