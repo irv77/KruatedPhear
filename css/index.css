@@ -150,8 +150,8 @@ body[data-theme="fo"] {
 body[data-theme="glitch"] {
   --background: #3baf11;
   --background-secondary: #0edc3057;
-  --home: url(/assets/images/glitch.png);
-  --page: url(/assets/images/glitch.png);
+  --home: url(/KruatedPhear/assets/images/glitch.png);
+  --page: url(/KruatedPhear/assets/images/glitch.png);
   --text: #13a747a6;
   --text-secondary: #06a80e82;
   --theme: #19aa4ce1;
@@ -186,8 +186,8 @@ body[data-theme="hub"] {
 body[data-theme="halloween"] {
   --background: #4a270dc9;
   --background-secondary: #79400dab;
-  --home: url(/assets/images/halloween.png);
-  --page: url(/assets/images/halloween.png);
+  --home: url(/KruatedPhear/assets/images/halloween.png);
+  --page: url(/KruatedPhear/assets/images/halloween.png);
   --text: #d7b90fd2;
   --text-secondary: #b59b23d1;
   --theme: #f16e0ac2;
@@ -199,7 +199,7 @@ body[data-theme="halloween"] {
 
 #preloader	{
 	align-items: center;
-	background: #000000 url(/assets/images/overlays/overlay-medium.png) no-repeat center;
+	background: #000000 url(/KruatedPhear/assets/images/overlays/overlay-medium.png) no-repeat center;
 	background-size: cover;
 	display: flex;
 	height: 100%;
@@ -211,7 +211,7 @@ body[data-theme="halloween"] {
 	z-index: 10000;
 }
 .vignette	{
-	background: url(/assets/images/overlays/vignette.png) no-repeat;
+	background: url(/KruatedPhear/assets/images/overlays/vignette.png) no-repeat;
 	background-size: cover;
 	height: 100%;
 	left: 0;
@@ -221,7 +221,7 @@ body[data-theme="halloween"] {
 	width: 100%;
 }
 .weblogo	{
-	background: url(/assets/images/logos/title-logo.png) no-repeat center;
+	background: url(/KruatedPhear/assets/images/logos/title-logo.png) no-repeat center;
 	background-size: contain;
 	height: 7vw;
 	width: 80vw;
@@ -253,7 +253,7 @@ body[data-theme="halloween"] {
 /* Common CSS */
 
 .noised {
-  background: url(/assets/images/overlays/background.png) repeat fixed;
+  background: url(/KruatedPhear/assets/images/overlays/background.png) repeat fixed;
   height: 100%;
   left: 0;
   mix-blend-mode: overlay;
@@ -263,7 +263,7 @@ body[data-theme="halloween"] {
 }
 
 .faded {
-  background: url(/assets/images/overlays/faded.png) no-repeat;
+  background: url(/KruatedPhear/assets/images/overlays/faded.png) no-repeat;
   background-size: cover;
   height: 100%;
   left: 0;
@@ -296,20 +296,20 @@ body[data-theme="halloween"] {
 
 @font-face {
   font-family: Title;
-  src: url(/assets/fonts/MokotoGlitchMark.ttf);
+  src: url(/KruatedPhear/assets/fonts/MokotoGlitchMark.ttf);
 }
 
 @font-face {
   font-family: CopyR;
-  src: url(/assets/fonts/CopyrightViolation.ttf);
+  src: url(/KruatedPhear/assets/fonts/CopyrightViolation.ttf);
 }
 
 @font-face {
   font-family: Bam;
-  src: url(/assets/fonts/Bamtang.ttf);
+  src: url(/KruatedPhear/assets/fonts/Bamtang.ttf);
 }
 
 @font-face {
   font-family: Vulen;
-  src: url(/assets/fonts/vulen.ttf);
+  src: url(/KruatedPhear/assets/fonts/vulen.ttf);
 }

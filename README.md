@@ -31,7 +31,7 @@
 
 - Vulen Corp | [__Discord__](https://discord.gg/xuu8TnSY4b)
 
-- Github Website | [__Vul77__](https://irv77.github.io)
+- Github Website | [__Vul77__](https://irv77.github.io/KruatedPhear)
 
 <hr>
 

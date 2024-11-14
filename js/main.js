@@ -63,7 +63,7 @@ window.addEventListener('DOMContentLoaded', function () {
 }
 
 #navbar #top-bar {
-	background: rgba(0, 0, 0, 0.65) url(/assets/images/overlays/divider.png) no-repeat center;
+	background: rgba(0, 0, 0, 0.65) url(/KruatedPhear/assets/images/overlays/divider.png) no-repeat center;
 	border: 0.2vh solid var(--theme);
 	border-radius: 10vw;
 	padding: 2vh 7.5vh;
@@ -245,7 +245,7 @@ path {
 }
 
 .mobile-menu {
-	background: var(--background-secondary) url(/assets/images/overlays/overlay-small.png) no-repeat;
+	background: var(--background-secondary) url(/KruatedPhear/assets/images/overlays/overlay-small.png) no-repeat;
 	background-size: cover;
 	cursor: default;
 	display: none;

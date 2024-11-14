@@ -10,7 +10,7 @@ body {
 }
 
 h2 {
-  background-image: url(/assets/images/overlays/divider.png);
+  background-image: url(/KruatedPhear/assets/images/overlays/divider.png);
   color: var(--theme);
   font-family: "Bam";
   font-size: 3vw;
@@ -38,7 +38,7 @@ h2 {
 }
 
 .system-tile {
-  background: var(--background-secondary) url(/assets/images/overlays/overlay-medium.png) no-repeat;
+  background: var(--background-secondary) url(/KruatedPhear/assets/images/overlays/overlay-medium.png) no-repeat;
   background-size: cover;
   border: 0.25vw solid var(--theme);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
