@@ -12,6 +12,32 @@ const logArr = [
   },
   **/
   {
+    version: `2.02.4`,
+    date: `December 1, 2024 `,
+    list: [
+      {
+        label: [`add`],
+        detail: `Added Eagle Ride`
+      },
+      {
+        label: [`add`],
+        detail: `Added Gold Digger FRVR`
+      },
+      {
+        label: [`add`],
+        detail: `Added Idle Gun`
+      },
+      {
+        label: [`system`],
+        detail: `Changed default theme to christmas theme`
+      },
+      {
+        label: [`system`],
+        detail: `Changed some game icons`
+      }
+    ]
+  },
+  {
     version: `2.02.2`,
     date: `November 10, 2024 `,
     list: [

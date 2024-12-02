@@ -754,7 +754,7 @@
         ],
         [
           "3D City",
-          "https://vulen76.web.app/games/other/3dcity/assets/img/preview02.jpg",
+          "https://vulen76.web.app/games/other/3dcity/logo.jpg",
           "https://vulen76.web.app/games/other/3dcity/index.html",
           ""
         ],
@@ -844,7 +844,7 @@
         ],
         [
           "Angry Shark",
-          "https://vulen76.web.app/games/other/angry-sharks/assets/img/splash.png",
+          "https://vulen76.web.app/games/other/angry-sharks/logo.png",
           "https://vulen76.web.app/games/other/angry-sharks/index.html",
           ""
         ],
@@ -1216,6 +1216,12 @@
           ""
         ],
         [
+          "Eagle Ride",
+          "https://vulen76.web.app/games/other/eagle-ride/logo.png",
+          "https://vulen76.web.app/games/other/eagle-ride/index.html",
+          ""
+        ],
+        [
           "Earn to Die",
           "https://vulen76.web.app/games/other/earntodie/loading.png",
           "https://vulen76.web.app/games/other/earntodie/index.html",
@@ -1450,6 +1456,12 @@
           ""
         ],
         [
+          "Gold Digger FRFV",
+          "https://vulen76.web.app/games/other/gold-digger-frfv/logo.png",
+          "https://vulen76.web.app/games/other/gold-digger-frfv/index.html",
+          ""
+        ],
+        [
           "Goodnight",
           "https://vulen76.web.app/games/other/goodnight/goodnight.jpg",
           "https://vulen76.web.app/games/other/goodnight/index.html",
@@ -1543,6 +1555,12 @@
           "Idle Dices",
           "https://vulen76.web.app/games/other/idle-dices/assets/img/icon/icon512.png",
           "https://vulen76.web.app/games/other/idle-dices/index.html",
+          ""
+        ],
+        [
+          "Idle Gun",
+          "https://vulen76.web.app/games/other/idle-gun/logo.png",
+          "https://vulen76.web.app/games/other/idle-gun/index.html",
           ""
         ],
         [
@@ -1967,7 +1985,7 @@
         ],
         [
           "Smash Karts",
-          "https://vulen76.web.app/games/other/smashkarts/images/favicon.png",
+          "https://vulen76.web.app/games/other/smashkarts/images/icon-512.png",
           "https://vulen76.web.app/games/other/smashkarts/index.html",
           ""
         ],

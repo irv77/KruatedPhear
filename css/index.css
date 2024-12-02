@@ -4,6 +4,18 @@
 /* General CSS */
 
 body[data-theme="default"] {
+  --background: #078411;
+  --background-secondary: #0b4202;
+  --home: linear-gradient(to bottom, var(--background), var(--background-secondary));
+  --page: linear-gradient(to bottom, var(--background-secondary), var(--background));
+  --text: #c2c2c2;
+  --text-secondary: #9a9a9a;
+  --theme: #d52620;
+  --theme-secondary: #088093;
+  --theme-tertiary: #debf10;
+}
+
+body[data-theme="default2"] {
   --background: #1d0e1a;
   --background-secondary: #600008;
   --home: linear-gradient(to bottom, var(--background), var(--background-secondary));
