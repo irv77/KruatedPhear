@@ -12,6 +12,44 @@ const logArr = [
   },
   **/
   {
+    version: `2.02.7`,
+    date: `December 9, 2024 `,
+    list: [
+      {
+        label: [`add`],
+        detail: `Added Idle Startup Tycoon`
+      },
+      {
+        label: [`add`],
+        detail: `Added Opposum Country`
+      },
+      {
+        label: [`add`],
+        detail: `Added RetrohauntR`
+      },
+      {
+        label: [`add`],
+        detail: `Added Fly Car Stunt 4`
+      },
+      {
+        label: [`add`],
+        detail: `Added Traffic Mania`
+      },
+      {
+        label: [`add`],
+        detail: `Added Low's Adventures`
+      },
+      {
+        label: [`add`],
+        detail: `Added Rally Point 3`
+      },
+      {
+        label: [`fix`],
+        detail: `Fixed a few bugs`
+      }
+    ]
+  },
+  {
     version: `2.02.6`,
     date: `December 1, 2024 `,
     list: [
