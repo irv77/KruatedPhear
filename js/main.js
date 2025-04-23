@@ -3,7 +3,7 @@ style.textContent = `
   ::-webkit-scrollbar {
     width: 0.5vw;
     background: #000;
-    border-left: 0.1vw solid var(--theme);
+    border: 0.1vw solid var(--theme);
   }
 
   ::-webkit-scrollbar-corner {
@@ -29,7 +29,6 @@ let loading = document.getElementById("preloader");
 if (loading) { 
 	document.body.classList.add("scrolling");
 	loading.innerHTML = `
-	<div class="vignette"></div>
     <div>
       <div class="weblogo"></div>
 	  <div class="info" style="align-items: center;">
@@ -54,18 +53,17 @@ window.addEventListener('DOMContentLoaded', function () {
   <style>
       /* Navbar CSS */
 #navbar {
-	left: 2.5%;
 	list-style-type: none;
 	position: fixed;
-	top: 2.5%;
-	width: 95%;
-	z-index: 9999;
+	top: 0;
+	width: 100%;
+	z-index: 998;
 }
 
 #navbar #top-bar {
-	background: rgba(0, 0, 0, 0.65) url(/KruatedPhear/assets/images/overlays/divider.png) no-repeat center;
-	border: 0.2vh solid var(--theme);
-	border-radius: 10vw;
+	background: rgba(0, 0, 0, 0.85) url(/assets/images/overlays/divider.png) no-repeat center;
+	border: 0.1vw solid var(--theme);
+	border-right: 0;
 	padding: 2vh 7.5vh;
 }
 
@@ -78,8 +76,8 @@ window.addEventListener('DOMContentLoaded', function () {
 
 #navbar #top-bar nav ul li {
 	list-style-type: none;
-	margin-left: 1%;
-	margin-right: 1%;
+	margin-left: 1.3%;
+	margin-right: 1.3%;
 }
 
 #navbar #top-bar nav ul li a {
@@ -89,6 +87,7 @@ window.addEventListener('DOMContentLoaded', function () {
 	font-weight: bold;
 	text-decoration: none;
 	transition: background-color 0.3s ease;
+	text-shadow: 0 0 1vw;
 }
 
 .theme,
@@ -130,6 +129,8 @@ path {
 .navlogo {
 	transition: transform 0.1s;
 	width: 40vw;
+	filter: var(--filter);
+    -webkit-filter: var(--filter);
 }
 
 .navlogo:hover {
@@ -154,7 +155,6 @@ path {
 	content: "";
 	height: 0.25vh;
 	left: 50%;
-	margin: 0 3vw;
 	position: absolute;
 	right: 50%;
 	transition-duration: 0.3s;
@@ -173,14 +173,20 @@ path {
 	right: 0;
 }
 
+.copy {
+	width: 100%;
+	text-align: center;
+}
+
 .copy p {
 	background: rgba(0, 0, 0, 0.55);
-	box-shadow: 0 -1vh 2vh 1vh rgba(0, 0, 0, 0.45);
-	color: var(--text);
+	box-shadow: 0 -1vh 2vh 0.5vh rgba(0, 0, 0, 0.55);
+	color: var(--theme);
+	text-shadow: var(--theme) 0 0 10px;
 	font-family: "CopyR";
-	font-size: 1.5vw;
+	font-size: 1.3vw;
 	margin: 0;
-	padding-bottom: 1vh;
+	padding: 0.5vh 0 1vh;
 	position: absolute;
 	width: 100%;
 	z-index: 2;
@@ -227,17 +233,15 @@ path {
 }
 
 .open.mobile-menu {
-	align-items: center;
 	display: flex;
 	flex-direction: column;
-	height: 100vh;
-	justify-content: flex-start;
-	position: fixed;
+	justify-content: center;
+	align-items: center;
 }
 
 .mobile-menu .hvuncen {
 	height: 5vh;
-	margin-bottom: 5vh;
+	margin-bottom: 7vh;
 }
 
 .mobile-menu .hvuncen:before {
@@ -245,17 +249,15 @@ path {
 }
 
 .mobile-menu {
-	background: var(--background-secondary) url(/KruatedPhear/assets/images/overlays/overlay-small.png) no-repeat;
+	background: var(--background-secondary) url(/assets/images/overlays/overlay-small.png) no-repeat;
 	background-size: cover;
-	cursor: default;
 	display: none;
-	height: 100vh;
+	height: 90vh;
 	left: 0;
-	margin-top: 0;
-	padding: 0;
 	position: absolute;
 	top: 0;
 	width: 100%;
+	padding: 10vh 0 0;
 	z-index: -1;
 }
 
@@ -265,6 +267,7 @@ path {
 	font-weight: bold;
 	text-decoration: none;
 	transition: background-color 0.3s ease;
+	text-shadow: 0 0 1vw;
 }
 
 .mobile-menu li a:hover {
@@ -287,6 +290,10 @@ path {
 		display: none;
 	}
 
+	#navbar #top-bar {
+		border-right: 0.1vw solid var(--theme);
+	}
+
 	#mobile-options {
 		display: flex;
 	}
@@ -300,6 +307,10 @@ path {
 @media only screen and (max-height: 550px) {
 	div nav {
 		display: none;
+	}
+
+	#navbar #top-bar {
+		border-right: 0.1vw solid var(--theme);
 	}
 
 	#mobile-options {
@@ -322,29 +333,29 @@ path {
     <div id="top-bar">
     <nav>
       <ul>
-        <li class="navloader"><a href="https://irv77.github.io/KruatedPhear/pages/themes.html">
+        <li class="navloader"><a href="/pages/themes.html">
           <svg xmlns="http://www.w3.org/2000/svg" class="theme" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
           <path d="M3 21v-4a4 4 0 1 1 4 4h-4"></path><path d="M21 3a16 16 0 0 0 -12.8 10.2"></path><path d="M21 3a16 16 0 0 1 -10.2 12.8"></path><path d="M10.6 9a9 9 0 0 1 4.4 4.4"></path></svg>
         </a></li>
-        <li class="hvuncen"><a href="https://irv77.github.io/KruatedPhear/index.html">
+        <li class="hvuncen"><a href="/index.html">
         <svg xmlns="http://www.w3.org/2000/svg" class="svg" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
           <path d="M5 12l-2 0l9 -9l9 9l-2 0"></path><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7"></path><path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6"></path>
         </svg><span> Home</span></a></li>
-        <li class="hvuncen"><a href="https://irv77.github.io/KruatedPhear/pages/about.html">
+        <li class="hvuncen"><a href="/pages/about.html">
         <svg xmlns="http://www.w3.org/2000/svg" class="svg" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
           <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0"></path><path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"></path>
         </svg><span>About</span></a></li>
         <li><a onclick="location.href=&#39;https://discord.gg/xuu8TnSY4b&#39;" draggable="false" class="logo">
-          <img src="/KruatedPhear/assets/images/logos/navbar-logo.png" class="navlogo">
+          <img src="/assets/images/logos/navbar-logo.png" class="navlogo">
           </a></li>
-        <li class="hvuncen"><a href="https://irv77.github.io/KruatedPhear/pages/games.html">
+        <li class="hvuncen"><a href="/pages/games.html">
         <svg xmlns="http://www.w3.org/2000/svg" class="svg" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
           <path d="M2 6m0 2a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-16a2 2 0 0 1 -2 -2z"></path><path d="M6 12h4m-2 -2v4"></path><path d="M15 11l0 .01"></path><path d="M18 13l0 .01"></path>
         </svg><span> Games</span></a></li>
-        <li class="hvuncen"><a href="https://irv77.github.io/KruatedPhear/pages/extras.html"><svg xmlns="http://www.w3.org/2000/svg" class="svg" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <li class="hvuncen"><a href="/pages/extras.html"><svg xmlns="http://www.w3.org/2000/svg" class="svg" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
           <path d="M20 4v8"></path><path d="M16 4.5v7"></path><path d="M12 5v16"></path><path d="M8 5.5v5"></path><path d="M4 6v4"></path><path d="M20 8h-16"></path>
         </svg><span> Extras</span></a></li>
-        <li class="navloader"><a href="https://irv77.github.io/KruatedPhear/pages/settings.html">
+        <li class="navloader"><a href="/pages/settings.html">
         <svg xmlns="http://www.w3.org/2000/svg" class="setting" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
         <path d="M4 10a2 2 0 1 0 4 0a2 2 0 0 0 -4 0"></path><path d="M6 4v4"></path><path d="M6 12v8"></path><path d="M10 16a2 2 0 1 0 4 0a2 2 0 0 0 -4 0"></path><path d="M12 4v10"></path><path d="M12 18v2"></path><path d="M16 7a2 2 0 1 0 4 0a2 2 0 0 0 -4 0"></path><path d="M18 4v1"></path><path d="M18 9v11"></path>
         </svg>
@@ -352,35 +363,34 @@ path {
       </ul>
     </nav>
     <div id="mobile-options">
-    <img src="/KruatedPhear/assets/images/logos/navbar-logo.png" class="navlogo">
+    <img src="/assets/images/logos/navbar-logo.png" class="navlogo">
     <div id="hamburger-icon" onclick="toggleMobileMenu(this)">
       <div class="bar1"></div>
       <div class="bar2"></div>
       <div class="bar3"></div>
     </div>
     <ul class="mobile-menu">
-        <li style="min-height: 18vh; list-style-type: none;"></li>
-        <li class="hvuncen"><a href="https://irv77.github.io/KruatedPhear/index.html">
+        <li class="hvuncen"><a href="/index.html">
         <svg xmlns="http://www.w3.org/2000/svg" class="svg" viewBox="0 0 24 24" stroke="#f2cf09" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
           <path d="M5 12l-2 0l9 -9l9 9l-2 0"></path><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7"></path><path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6"></path>
         </svg><span> Home</span></a></li>
-        <li class="hvuncen"><a href="https://irv77.github.io/KruatedPhear/pages/about.html">
+        <li class="hvuncen"><a href="/pages/about.html">
         <svg xmlns="http://www.w3.org/2000/svg" class="svg" viewBox="0 0 24 24" stroke="#f2cf09" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
           <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0"></path><path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"></path>
         </svg><span> About</span></a></li>
-        <li class="hvuncen"><a href="https://irv77.github.io/KruatedPhear/pages/games.html">
+        <li class="hvuncen"><a href="/pages/games.html">
         <svg xmlns="http://www.w3.org/2000/svg" class="svg" viewBox="0 0 24 24" stroke="#f2cf09" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
           <path d="M2 6m0 2a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-16a2 2 0 0 1 -2 -2z"></path><path d="M6 12h4m-2 -2v4"></path><path d="M15 11l0 .01"></path><path d="M18 13l0 .01"></path>
         </svg><span> Games</span></a></li>
-        <li class="hvuncen"><a href="https://irv77.github.io/KruatedPhear/pages/themes.html">
+        <li class="hvuncen"><a href="/pages/themes.html">
         <svg xmlns="http://www.w3.org/2000/svg" class="svg" viewBox="0 0 24 24" stroke="#f2cf09" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
         <path d="M3 21v-4a4 4 0 1 1 4 4h-4"></path><path d="M21 3a16 16 0 0 0 -12.8 10.2"></path><path d="M21 3a16 16 0 0 1 -10.2 12.8"></path><path d="M10.6 9a9 9 0 0 1 4.4 4.4"></path></svg><span> Themes</span>
       </a></li>
-        <li class="hvuncen"><a href="https://irv77.github.io/KruatedPhear/pages/extras.html">
+        <li class="hvuncen"><a href="/pages/extras.html">
         <svg xmlns="http://www.w3.org/2000/svg" class="svg" viewBox="0 0 24 24" stroke="#f2cf09" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
           <path d="M20 4v8"></path><path d="M16 4.5v7"></path><path d="M12 5v16"></path><path d="M8 5.5v5"></path><path d="M4 6v4"></path><path d="M20 8h-16"></path>
         </svg><span> Extras</span></a></li>
-        <li class="hvuncen"><a href="https://irv77.github.io/KruatedPhear/pages/settings.html">
+        <li class="hvuncen"><a href="/pages/settings.html">
         <svg xmlns="http://www.w3.org/2000/svg" class="svg" viewBox="0 0 24 24" stroke="#f2cf09" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
         <path d="M4 10a2 2 0 1 0 4 0a2 2 0 0 0 -4 0"></path><path d="M6 4v4"></path><path d="M6 12v8"></path><path d="M10 16a2 2 0 1 0 4 0a2 2 0 0 0 -4 0"></path><path d="M12 4v10"></path><path d="M12 18v2"></path><path d="M16 7a2 2 0 1 0 4 0a2 2 0 0 0 -4 0"></path><path d="M18 4v1"></path><path d="M18 9v11"></path>
         </svg><span> Settings</span>
@@ -407,16 +417,9 @@ path {
 
 // Create a new <p> element
 var copyrightParagraph = document.createElement("p");
+var copyrightContainer = document.querySelector(".copy");
 
-// Set the text content of the <p> element
-copyrightParagraph.textContent = "© Vulen Corp 2024. By using this site/service, you agree to the use of cookies";
-
-// Get a reference to the <div> element where you want to insert the <p> element
-var copyrightContainer = document.querySelector(".copy"); // Replace with the actual class or ID of your <div>
-copyrightContainer.style.color = "var(--text-secondary);";
-copyrightContainer.style.width = "100%";
-copyrightContainer.style.textAlign = "center";
-// Append the <p> element to the <div>
+copyrightParagraph.textContent = "© Vulen Corp 2025. By using this site/service, you agree to the use of cookies";
 copyrightContainer.appendChild(copyrightParagraph);
 
 // FAQ Dropdowns
@@ -435,3 +438,23 @@ function toggleMobileMenu(icon) {
   menu.classList.toggle('open');
   document.querySelector("body").classList.toggle('scrolling');
 }
+
+// Share Key
+const pressedKeys = {};
+document.addEventListener('keydown', event => {
+  pressedKeys[event.key] = true;
+
+  if (pressedKeys['-'] && pressedKeys['=']) {
+    try {
+      navigator.share({ title: "", url: "" });
+      console.log("Succesfully Shared");
+    } catch (err) {
+      console.error("Share failed:", err.message);
+    }
+    delete pressedKeys[event.key];
+  }
+});
+
+document.addEventListener('keyup', (event) => {
+  delete pressedKeys[event.key];
+});

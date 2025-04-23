@@ -3,31 +3,69 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Games Categories | Kruated Phear</title>
-  <link rel="icon" type="image/x-icon" href="/KruatedPhear/assets/images/logos/favicon.png" />
+  <title>Games | Kruated Phear</title>
+  <link rel="icon" type="image/x-icon" href="/assets/images/logos/favicon.png" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <link rel="stylesheet" href="/KruatedPhear/css/main.css" />
-  <link rel="stylesheet" href="/KruatedPhear/css/index.css" />
-  <link rel="stylesheet" media="screen and (max-width: 900px)" href="/KruatedPhear/css/screensize.css">
-  <link rel="stylesheet" media="screen and (max-height: 550px)" href="/KruatedPhear/css/screensize.css">
+  <link rel="stylesheet" href="/css/games.css" />
+  <link rel="stylesheet" href="/css/index.css" />
+  <link rel="stylesheet" media="screen and (max-width: 900px)" href="/css/screensize.css">
+  <link rel="stylesheet" media="screen and (max-height: 550px)" href="/css/screensize.css">
   <!--Discord-->
-  <meta content="Kruated Phear | Games Categories" property="og:title">
-  <meta content="Choose from our game categories to norrow the game search!"
-    property="og:description">
+  <meta content="Kruated Phear | Games" property="og:title">
+  <meta content="Every game listed on the website in one area!" property="og:description">
   <meta content="https://irv77.github.io/KruatedPhear/pages/games.html" property="og:url">
   <meta content="https://irv77.github.io/KruatedPhear/assets/images/logos/favicon.png" property="og:image">
   <meta content="#9a1508" data-react-helmet="true" name="theme-color">
 </head>
 <body>
   <div id="preloader"></div>
-  <div class="faded"></div>
-  <div class="noised"></div>
-  <div class="content">
-    <div id="search" class="flex-container"></div>
-    <div class="copy"></div>
+  <div class="content" style="align-items: end; height: fit-content;">
+      <div class="sidebar">
+        <h2 style="margin: 1vw 0 3vw;">Categories</h2>
+        <div class="option popular" onclick="gameSelected('popular')">
+          <p class="icon">🔥</p>
+          <p>Popular Games</p>
+        </div>
+        <div class="option all" onclick="gameSelected('all')">
+          <p class="icon">⭐</p>
+          <p>All Games</p>
+        </div>
+        <div class="option new" onclick="gameSelected('new')">
+          <p class="icon">✨</p>
+          <p>New Games</p>
+        </div>
+        <div class="option flash" onclick="gameSelected('flash')">
+          <p class="icon">⚡</p>
+          <p>Flash Games</p>
+        </div>
+        <div class="option emulator" onclick="gameSelected('emulator')">
+          <p class="icon">🕹️</p>
+          <p>Emulator Games</p>
+        </div>
+        <div class="option misc" onclick="gameSelected('misc')">
+          <p class="icon">❓</p>
+          <p>Misc Games</p>
+        </div>
+        <div class="option apps" onclick="gameSelected('apps')">
+          <p class="icon">📱</p>
+          <p>Apps</p>
+        </div>
+        <div class="option launchers" onclick="gameSelected('launchers')">
+          <p class="icon">📟</p>
+          <p>Game Launchers</p>
+        </div>
+        <div class="option series" onclick="gameSelected('series')">
+          <p class="icon">📚</p>
+          <p>Game Series</p>
+        </div>
+      </div>
+      <div id="search" class="flex-container">
+        <h2 class="category-title"></h2>
+      </div>
   </div>
+  <div class="copy"></div>
   <!--Made By IRV77-->
-  <script src="/KruatedPhear/js/generatesystems.js"></script>
-  <script src="/KruatedPhear/js/index.js"></script>
-  <script src="/KruatedPhear/js/main.js"></script>
+  <script src="/js/generategames.js"></script>
+  <script src="/js/index.js"></script>
+  <script src="/js/main.js"></script>
 </body>

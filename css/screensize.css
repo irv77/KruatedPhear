@@ -1,6 +1,6 @@
 /* General CSS */
 .weblogo {
-	background: url(/KruatedPhear/assets/images/logos/title-logo-mobile.png) no-repeat center;
+	background: url(/assets/images/logos/title-logo-mobile.png) no-repeat center;
 	background-size: contain;
 	height: 26vw;
 	width: 100vw;
@@ -30,15 +30,15 @@ p {
 /* Loading CSS */
 
 #preloader .loadwheel {
-	border: var(--background-secondary) solid 1vw;
-	border-bottom: var(--theme) solid 1vw;
-	border-top: var(--theme) solid 1vw;
-	height: 3vw;
-	width: 3vw;
+	border: var(--background-secondary) solid 1.5vw;
+	border-bottom: var(--theme) solid 1.5vw;
+	border-top: var(--theme) solid 1.5vw;
+	height: 5vw;
+	width: 5vw;
 }
 
 #preloader .loading {
-	font-size: 5vw;
+	font-size: 7vw;
 	margin: 0 3vw;
 }
 
@@ -64,7 +64,7 @@ h1#title {
 }
 
 .changelog-entry ul li {
-	font-size: 2.75vw;
+	font-size: 3vw;
 }
 
 .recent-upd-container h2 {
@@ -115,13 +115,17 @@ h1#title {
 }
 
 .square {
-	margin: 1.5vw 7.5vw;
+	margin: 1.5vw 6.5vw;
+	padding: 1vw 5vw;
 	transform: scale(1.5);
-	width: 15%;
 }
 
 .intxtsml {
 	font-size: 1.1vw;
+}
+
+.recent-upd-container h1 {
+	font-size: 5vw;
 }
 
 /* About CSS */
@@ -149,44 +153,28 @@ h1#title {
 	width: 24vw;
 }
 
-/* System Options CSS */
-
-.system-link {
-	height: 22.5vw;
-	width: 40vw;
-}
-
-.system-title {
-	font-size: 4vw;
-}
-
-.system-desc {
-	font-size: 2vw;
-}
-
 /* Game Options CSS */
 
+.flex-container {
+	width: 74vw;
+}
+
 .game-link {
-	height: 22vw;
-	padding: 1.5vw;
-	width: 18vw;
+	height: 14vw;
+	width: 22vw;
 }
 
 .game-title {
-	font-size: 2vw;
+	font-size: 2.2vw;
 }
 
-.game-desc {
-	font-size: 1.5vw;
-}
+/* Searchbar CSS */
 
 #mySearch {
 	font-size: 2.25vw;
 	margin-top: 4vw;
 	width: 75%;
 }
-
-/* Searchbar CSS */
 
 .searchbar.scrolled {
 	margin-top: 1.75vw;
@@ -198,6 +186,25 @@ h1#title {
 
 .search {
 	width: 2.6vw;
+}
+
+/* Sidebar CSS */
+
+.sidebar {
+	width: 26vw;
+	gap: 0.5vw;
+}
+
+.option {
+	width: 9.5vw;
+}
+
+.option p {
+	font-size: 2vw;
+}
+
+.option p.icon {
+	font-size: 4.5vw;
 }
 
 /* FAQ CSS */

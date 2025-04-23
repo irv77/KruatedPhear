@@ -4,18 +4,6 @@
 /* General CSS */
 
 body[data-theme="default"] {
-  --background: #078411;
-  --background-secondary: #0b4202;
-  --home: linear-gradient(to bottom, var(--background), var(--background-secondary));
-  --page: linear-gradient(to bottom, var(--background-secondary), var(--background));
-  --text: #c2c2c2;
-  --text-secondary: #9a9a9a;
-  --theme: #d52620;
-  --theme-secondary: #088093;
-  --theme-tertiary: #debf10;
-}
-
-body[data-theme="default2"] {
   --background: #1d0e1a;
   --background-secondary: #600008;
   --home: linear-gradient(to bottom, var(--background), var(--background-secondary));
@@ -25,6 +13,7 @@ body[data-theme="default2"] {
   --theme: #cc4343;
   --theme-secondary: #f18585;
   --theme-tertiary: #f2cf09;
+  --filter: hue-rotate(0deg) brightness(1);
 }
 
 body[data-theme="classic"] {
@@ -37,6 +26,7 @@ body[data-theme="classic"] {
   --theme: #eaeaff;
   --theme-secondary: #1e00b360;
   --theme-tertiary: #f2cf09;
+  --filter: hue-rotate(220deg) brightness(0.5);
 }
 
 body[data-theme="light"] {
@@ -49,6 +39,7 @@ body[data-theme="light"] {
   --theme: #10e8ef;
   --theme-secondary: #2e82f8;
   --theme-tertiary: #23d2a3;
+  --filter: hue-rotate(200deg) brightness(1.5);
 }
 
 body[data-theme="dark"] {
@@ -61,6 +52,7 @@ body[data-theme="dark"] {
   --theme: #777d2d;
   --theme-secondary: #c58b02;
   --theme-tertiary: #b06f13;
+  --filter: hue-rotate(50deg) brightness(1.5);
 }
 
 body[data-theme="con"] {
@@ -73,6 +65,7 @@ body[data-theme="con"] {
   --theme: #0cace6;
   --theme-secondary: #2eabea;
   --theme-tertiary: #f2cf09;
+  --filter: hue-rotate(200deg) brightness(1.5);
 }
 
 body[data-theme="sumpeach"] {
@@ -85,6 +78,7 @@ body[data-theme="sumpeach"] {
   --theme: #e62323;
   --theme-secondary: #ff7190;
   --theme-tertiary: #cf296e;
+  --filter: hue-rotate(340deg) brightness(1.25);
 }
 
 body[data-theme="cansh"] {
@@ -97,6 +91,7 @@ body[data-theme="cansh"] {
   --theme: #f01039;
   --theme-secondary: #e4dd1eb2;
   --theme-tertiary: #f2cf09;
+  --filter: hue-rotate(0deg) brightness(1.5);
 }
 
 body[data-theme="rblue"] {
@@ -109,6 +104,7 @@ body[data-theme="rblue"] {
   --theme: #a12fff;
   --theme-secondary: #8642d9;
   --theme-tertiary: #552f83;
+  --filter: hue-rotate(275deg) brightness(1.25);
 }
 
 body[data-theme="retro"] {
@@ -121,6 +117,7 @@ body[data-theme="retro"] {
   --theme: #58422f;
   --theme-secondary: #edae7a;
   --theme-tertiary: #c9a319;
+  --filter: hue-rotate(40deg) brightness(2);
 }
 
 body[data-theme="spill"] {
@@ -133,6 +130,7 @@ body[data-theme="spill"] {
   --theme: #16c53c;
   --theme-secondary: #dc2f67;
   --theme-tertiary: #f2cf09;
+  --filter: hue-rotate(145deg) brightness(2);
 }
 
 body[data-theme="darker"] {
@@ -145,6 +143,7 @@ body[data-theme="darker"] {
   --theme: #363636;
   --theme-secondary: #383838;
   --theme-tertiary: #555555;
+  --filter: hue-rotate(50deg) brightness(0.5);
 }
 
 body[data-theme="fo"] {
@@ -157,18 +156,20 @@ body[data-theme="fo"] {
   --theme: #dbdbdb;
   --theme-secondary: #e3b865;
   --theme-tertiary: #ffce1b;
+  --filter: hue-rotate(50deg) brightness(5);
 }
 
 body[data-theme="glitch"] {
   --background: #3baf11;
   --background-secondary: #0edc3057;
-  --home: url(/KruatedPhear/assets/images/glitch.png);
-  --page: url(/KruatedPhear/assets/images/glitch.png);
+  --home: url(/assets/images/glitch.png);
+  --page: url(/assets/images/glitch.png);
   --text: #13a747a6;
   --text-secondary: #06a80e82;
   --theme: #19aa4ce1;
   --theme-secondary: #0c6c0e8e;
   --theme-tertiary: #278e358b;
+  --filter: hue-rotate(80deg) brightness(1);
 }
 
 body[data-theme="olds"] {
@@ -181,6 +182,7 @@ body[data-theme="olds"] {
   --theme: red;
   --theme-secondary: maroon;
   --theme-tertiary: maroon;
+  --filter: hue-rotate(0deg) brightness(1);
 }
 
 body[data-theme="hub"] {
@@ -193,25 +195,40 @@ body[data-theme="hub"] {
   --theme: #808080;
   --theme-secondary: #ffa31a;
   --theme-tertiary: #ffa31a;
+  --filter: hue-rotate(0deg) brightness(5);
 }
 
 body[data-theme="halloween"] {
   --background: #4a270dc9;
   --background-secondary: #79400dab;
-  --home: url(/KruatedPhear/assets/images/halloween.png);
-  --page: url(/KruatedPhear/assets/images/halloween.png);
+  --home: url(/assets/images/halloween.png);
+  --page: url(/assets/images/halloween.png);
   --text: #d7b90fd2;
   --text-secondary: #b59b23d1;
   --theme: #f16e0ac2;
   --theme-secondary: #5ed94383;
   --theme-tertiary: #7d0ed1a7;
+  --filter: hue-rotate(20deg) brightness(1.5);
+}
+
+body[data-theme="christmas"] {
+  --background: #078411;
+  --background-secondary: #0b4202;
+  --home: linear-gradient(to bottom, var(--background), var(--background-secondary));
+  --page: linear-gradient(to bottom, var(--background-secondary), var(--background));
+  --text: #c2c2c2;
+  --text-secondary: #9a9a9a;
+  --theme: #d52620;
+  --theme-secondary: #088093;
+  --theme-tertiary: #debf10;
+  --filter: hue-rotate(0deg) brightness(1.5);
 }
 
 /* Preloader CSS */
 
 #preloader	{
 	align-items: center;
-	background: #000000 url(/KruatedPhear/assets/images/overlays/overlay-medium.png) no-repeat center;
+	background: #000000 url(/assets/images/overlays/overlay-medium.png) no-repeat center;
 	background-size: cover;
 	display: flex;
 	height: 100%;
@@ -222,21 +239,13 @@ body[data-theme="halloween"] {
 	width: 100%;
 	z-index: 10000;
 }
-.vignette	{
-	background: url(/KruatedPhear/assets/images/overlays/vignette.png) no-repeat;
-	background-size: cover;
-	height: 100%;
-	left: 0;
-	pointer-events: none;
-	position: absolute;
-	top: 0;
-	width: 100%;
-}
 .weblogo	{
-	background: url(/KruatedPhear/assets/images/logos/title-logo.png) no-repeat center;
+	background: url(/assets/images/logos/title-logo.png) no-repeat center;
 	background-size: contain;
 	height: 7vw;
 	width: 80vw;
+  filter: var(--filter);
+  -webkit-filter: var(--filter);
 }
 #preloader .loadwheel	{
 	animation: spin 3s linear infinite;
@@ -254,7 +263,6 @@ body[data-theme="halloween"] {
 	font-style: italic;
 	margin: 0 1vw;
 	text-align: center;
-  text-shadow: var(--theme) 3px 0 10px;
 }
 
 @keyframes spin {
@@ -263,36 +271,14 @@ body[data-theme="halloween"] {
 }
 
 /* Common CSS */
-
-.noised {
-  background: url(/KruatedPhear/assets/images/overlays/background.png) repeat fixed;
-  height: 100%;
-  left: 0;
-  mix-blend-mode: overlay;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.faded {
-  background: url(/KruatedPhear/assets/images/overlays/faded.png) no-repeat;
-  background-size: cover;
-  height: 100%;
-  left: 0;
-  pointer-events: none;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 3;
-}
-
 .content {
   align-items: center;
   color: var(--text);
   display: flex;
   flex-direction: column;
   font-family: "Raleway", sans-serif;
-  height: 100vh;
+  height: 30vh;
+  min-height: 100vh;
   position: relative;
   z-index: 2;
 }
@@ -308,20 +294,20 @@ body[data-theme="halloween"] {
 
 @font-face {
   font-family: Title;
-  src: url(/KruatedPhear/assets/fonts/MokotoGlitchMark.ttf);
+  src: url(/assets/fonts/MokotoGlitchMark.ttf);
 }
 
 @font-face {
   font-family: CopyR;
-  src: url(/KruatedPhear/assets/fonts/CopyrightViolation.ttf);
+  src: url(/assets/fonts/CopyrightViolation.ttf);
 }
 
 @font-face {
   font-family: Bam;
-  src: url(/KruatedPhear/assets/fonts/Bamtang.ttf);
+  src: url(/assets/fonts/Bamtang.ttf);
 }
 
 @font-face {
   font-family: Vulen;
-  src: url(/KruatedPhear/assets/fonts/vulen.ttf);
+  src: url(/assets/fonts/vulen.ttf);
 }

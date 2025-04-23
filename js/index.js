@@ -13,7 +13,7 @@ if (tabData.icon) {
 
 const settingsDefaultTab = {
   title: "Settings | Kruated Phear",
-  icon: "/KruatedPhear/assets/images/logos/favicon.png",
+  icon: "/assets/images/logos/favicon.png",
 };
 
 const setTitle = (title = "") => {
@@ -136,4 +136,18 @@ if (!selectedTheme) {
   localStorage.setItem(themeKey, selectedTheme);
 } else {
   document.body.setAttribute("data-theme", selectedTheme);
+}
+
+// Game Copyright
+const pageTitle = document.querySelector('script[title="vulen77"]');
+const faviconQuery = document.querySelector("link[rel*='icon']");
+if (pageTitle) {
+  if (!faviconQuery) {
+    let link = document.createElement('link');
+    link.type = 'image/x-icon';
+    link.rel = 'shortcut icon';
+    link.href = "/assets/images/logos/favicon.png";
+    document.getElementsByTagName('head')[0].appendChild(link);
+  }
+  document.title = document.title + " | Kruated Phear"
 }

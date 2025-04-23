@@ -1,0 +1,2860 @@
+{
+  "links": [
+    {
+      "title": "All Games",
+      "games": [
+        [
+          "10-103",
+          "/assets/images/games/10-103.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/10-103/",
+          "Misc"
+        ],
+        [
+          "10 Minutes Till Dawn",
+          "/assets/images/games/10-minutes-till-dawn.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/10-minutes-till-dawn/",
+          "Misc"
+        ],
+        [
+          "10 More Bullets",
+          "/assets/images/games/10-more-bullets.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/10-more-bullets/",
+          "Misc"
+        ],
+        [
+          "100NG",
+          "/assets/images/games/100ng.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/100ng/",
+          "Misc"
+        ],
+        [
+          "1v1.lol",
+          "/assets/images/games/1v1lol.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/1v1lol/",
+          "Misc"
+        ],
+        [
+          "2048",
+          "/assets/images/games/2048.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/2048/",
+          "Misc, Series"
+        ],
+        [
+          "2048 Reverse",
+          "/assets/images/games/2048-reverse.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/2048-reverse/",
+          "Misc, Series"
+        ],
+        [
+          "3D City",
+          "/assets/images/games/3d-city.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/3d-city/",
+          "Misc"
+        ],
+        [
+          "30 Dollar Soundboard",
+          "/assets/images/games/30-dollar-soundboard.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/30-dollar-soundboard/index.html",
+          "Apps"
+        ],
+        [
+          "4 Colors Monument Edition",
+          "/assets/images/games/4-colors-monument-edition.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/4-colors-monument-edition/",
+          "Misc"
+        ],
+        [
+          "4WD Off-Road Driving Sim",
+          "/assets/images/games/4wd-offroad-driving-sim.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/4wd-offroad/",
+          "Misc"
+        ],
+        [
+          "4x4 Drive Offroad",
+          "/assets/images/games/4x4-drive-offroad.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/4x4-drive-offroad/",
+          "Misc"
+        ],
+        [
+          "60 Seconds Burger Run",
+          "/assets/images/games/60-seconds-burger-run.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=60-seconds-burger-run.swf",
+          "Flash"
+        ],
+        [
+          "8 Ball Pool",
+          "/assets/images/games/8-ball-pool.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/8-ball-pool/",
+          "Misc"
+        ],
+        [
+          "9007199254740992",
+          "/assets/images/games/9007199254740992.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/9007199254740992/",
+          "Misc"
+        ],
+        [
+          "A Dance of Fire and Ice",
+          "/assets/images/games/a-dance-of-fire-and-ice.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/a-dance-of-fire-and-ice/",
+          "Misc"
+        ],
+        [
+          "A Small World Cup",
+          "/assets/images/games/a-small-world-cup.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/a-small-world-cup/",
+          "Misc"
+        ],
+        [
+          "Abobo's Big Adventure",
+          "/assets/images/games/abobos-big-adventure.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=abobbos-big-adventure.swf",
+          "Flash"
+        ],
+        [
+          "Achievement Unlocked",
+          "/assets/images/games/achievement-unlocked.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=achievement-unlocked.swf",
+          "Flash"
+        ],
+        [
+          "Adrenaline Challenge",
+          "/assets/images/games/adrenaline-challenge.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=adrenaline-challenge.swf",
+          "Flash"
+        ],
+        [
+          "Adventure Capitalist",
+          "/assets/images/games/adventure-capitalist.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/adventure-capitalist/",
+          "Misc"
+        ],
+        [
+          "Adventure Drivers",
+          "/assets/images/games/adventure-drivers.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/adventure-drivers/",
+          "Misc"
+        ],
+        [
+          "Age Of War",
+          "/assets/images/games/age-of-war.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=age-of-war.swf",
+          "Flash"
+        ],
+        [
+          "Ages Of Conflict",
+          "/assets/images/games/ages-of-conflict.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/ages-of-conflict/",
+          "Misc"
+        ],
+        [
+          "Alien Homonid",
+          "/assets/images/games/alien-homonid.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=alien-hominid.swf",
+          "Flash"
+        ],
+        [
+          "Among Us",
+          "/assets/images/games/among-us.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/among-us/",
+          "Misc"
+        ],
+        [
+          "Ampler Launcher",
+          "/assets/images/games/ampler-launcher.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/ampler-launcher/",
+          "Misc, Launchers"
+        ],
+        [
+          "Angry Sharks",
+          "/assets/images/games/angry-sharks.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/angry-sharks/",
+          "Misc"
+        ],
+        [
+          "Apple Shooter",
+          "/assets/images/games/apple-shooter.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=apple-shooter.swf",
+          "Flash, Popular"
+        ],
+        [
+          "Archery World Tour",
+          "/assets/images/games/archery-world-tour.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/archery-world-tour/",
+          "Misc"
+        ],
+        [
+          "Ascii Space",
+          "/assets/images/games/ascii-space.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/ascii-space/",
+          "Misc"
+        ],
+        [
+          "Assessment Examination",
+          "/assets/images/games/assessment-examination.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/assessment-examination/",
+          "Misc"
+        ],
+        [
+          "Asteroids",
+          "/assets/images/games/asteroids.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=asteroids.swf",
+          "Flash"
+        ],
+        [
+          "Astray",
+          "/assets/images/games/astray.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/astray1/",
+          "Misc"
+        ],
+        [
+          "Astro Survivors",
+          "/assets/images/games/astro-survivors.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/astro-survivors/",
+          "Misc"
+        ],
+        [
+          "Avalanche",
+          "/assets/images/games/avalanche.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=avalanche.swf",
+          "Flash"
+        ],
+        [
+          "Axis Football League",
+          "/assets/images/games/axis-football-league.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=axis-football-league.swf",
+          "Flash"
+        ],
+        [
+          "Backrooms",
+          "/assets/images/games/backrooms.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/backrooms/",
+          "Misc"
+        ],
+        [
+          "Bacon May Die",
+          "/assets/images/games/bacon-may-die.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/bacon-may-die/",
+          "Misc"
+        ],
+        [
+          "Bad Ice Cream 1",
+          "/assets/images/games/bad-ice-cream-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/bad-ice-cream-1/",
+          "Misc, Series"
+        ],
+        [
+          "Bad Ice Cream 2",
+          "/assets/images/games/bad-ice-cream-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/bad-ice-cream-2/",
+          "Misc, Series"
+        ],
+        [
+          "Bad Ice Cream 3",
+          "/assets/images/games/bad-ice-cream-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/bad-ice-cream-3/",
+          "Misc, Series"
+        ],
+        [
+          "Bad Piggies",
+          "/assets/images/games/bad-piggies.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=bad-piggies.swf",
+          "Flash"
+        ],
+        [
+          "Baldi's Basics",
+          "/assets/images/games/baldis-basics.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/baldis-basics/",
+          "Misc"
+        ],
+        [
+          "Ball Hop",
+          "/assets/images/games/ball-hop.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/ball-hop/",
+          "Misc"
+        ],
+        [
+          "Ball Mayhem",
+          "/assets/images/games/ball-mayhem.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/ball-mayhem/",
+          "Misc"
+        ],
+        [
+          "Banjo Kazooie",
+          "/assets/images/games/banjo-kazooie.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=banjo-kazooie.z64",
+          "Emulator"
+        ],
+        [
+          "Bank Robbery 2",
+          "/assets/images/games/bank-robbery-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/bank-robbery-2/",
+          "Misc"
+        ],
+        [
+          "Barbershop inc.",
+          "/assets/images/games/barbershop-inc.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/barbershop-inc/",
+          "Misc"
+        ],
+        [
+          "Baseball Fury",
+          "/assets/images/games/baseball-fury.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/baseball-fury/",
+          "Misc"
+        ],
+        [
+          "Basket & Ball",
+          "/assets/images/games/basket-n-ball.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/basket-n-ball/",
+          "Misc"
+        ],
+        [
+          "Basket Random",
+          "/assets/images/games/basket-random.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/basket-random/",
+          "Misc"
+        ],
+        [
+          "Basketball Stars",
+          "/assets/images/games/basketball-stars.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/basketball-stars/",
+          "Misc"
+        ],
+        [
+          "Batman",
+          "/assets/images/games/batman.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&batman.nes",
+          "Emulator"
+        ],
+        [
+          "Big Red Button",
+          "/assets/images/games/big-red-button.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=big-red-button.swf",
+          "Flash"
+        ],
+        [
+          "Big Tower Tiny Square",
+          "/assets/images/games/big-tower-tiny-square.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/big-tower-tiny-square/",
+          "Misc"
+        ],
+        [
+          "Biters.io",
+          "/assets/images/games/biters-io.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/biters-io/",
+          "Misc"
+        ],
+        [
+          "BitLife",
+          "/assets/images/games/bitlife.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/bitlife/",
+          "Misc"
+        ],
+        [
+          "BlackJack",
+          "/assets/images/games/blackjack.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/blackjack/",
+          "Misc"
+        ],
+        [
+          "Block Blast",
+          "/assets/images/games/block-blast.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/block-blast/",
+          "Misc"
+        ],
+        [
+          "Bloons Tower Defense 1",
+          "/assets/images/games/bloons-tower-defense-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=bloons-tower-defense-1.swf",
+          "Flash, Series"
+        ],
+        [
+          "Bloons Tower Defense 2",
+          "/assets/images/games/bloons-tower-defense-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=bloons-tower-defense-2.swf",
+          "Flash, Series"
+        ],
+        [
+          "Bloons Tower Defense 3",
+          "/assets/images/games/bloons-tower-defense-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=bloons-tower-defense-3.swf",
+          "Flash, Series"
+        ],
+        [
+          "Bloxorz",
+          "/assets/images/games/bloxorz.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=bloxorz.swf",
+          "Flash"
+        ],
+        [
+          "Blumgi Castle",
+          "/assets/images/games/blumgi-castle.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/blumgi-castle/",
+          "Misc"
+        ],
+        [
+          "Bob The Robber 2",
+          "/assets/images/games/bob-the-robber-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/bob-the-robber-2/",
+          "Misc"
+        ],
+        [
+          "Bossy Toss",
+          "/assets/images/games/bossy-toss.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/bossy-toss/",
+          "Misc"
+        ],
+        [
+          "Bouncy Basketball",
+          "/assets/images/games/bouncy-basketball.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/bouncy-basketball/",
+          "Misc"
+        ],
+        [
+          "BoxHead 2",
+          "/assets/images/games/boxhead-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=boxhead-2.swf",
+          "Flash"
+        ],
+        [
+          "Boxing Physics",
+          "/assets/images/games/boxing-physics.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/boxing-physics/",
+          "Misc"
+        ],
+        [
+          "Boxing Random",
+          "/assets/images/games/boxing-random.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/boxing-random/",
+          "Misc"
+        ],
+        [
+          "Breaking The Bank",
+          "/assets/images/games/breaking-the-bank.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=breaking-the-bank.swf",
+          "Flash, Series"
+        ],
+        [
+          "Bridge Builder",
+          "/assets/images/games/bridge-builder.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/bridge-builder/",
+          "Misc"
+        ],
+        [
+          "Bubble Shooter",
+          "/assets/images/games/bubble-shooter.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=bubble-shooter.swf",
+          "Flash"
+        ],
+        [
+          "Bun n' Gun",
+          "/assets/images/games/bun-n-gun.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/bun-n-gun/",
+          "Misc"
+        ],
+        [
+          "Burger & Frights",
+          "/assets/images/games/burger-n-frights.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/burger-n-frights/",
+          "Misc"
+        ],
+        [
+          "Burger Bounty",
+          "/assets/images/games/burger-bounty.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/burger-bounty/",
+          "Misc"
+        ],
+        [
+          "Burger Tycoon",
+          "/assets/images/games/burger-tycoon.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=burger-tycoon.swf",
+          "Flash"
+        ],
+        [
+          "Burrito Bison: Launcha Libre",
+          "/assets/images/games/burrito-bison-launcha-libre.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/burrito-bison/",
+          "Misc"
+        ],
+        [
+          "Cactus McCoy",
+          "/assets/images/games/cactus-mccoy.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=cactus-mccoy.swf",
+          "Flash"
+        ],
+        [
+          "Candy Crush",
+          "/assets/images/games/candy-crush.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/candy-crush/",
+          "Misc"
+        ],
+        [
+          "Cannon Basketball 4",
+          "/assets/images/games/cannon-basketball-4.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/cannon-basketball-4/",
+          "Misc"
+        ],
+        [
+          "Car Drawing Game",
+          "/assets/images/games/car-drawing-game.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/car-drawing-game/",
+          "Misc"
+        ],
+        [
+          "Cat Gunner: Super Force",
+          "/assets/images/games/cat-gunner-super-force.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/cat-gunner-super-force/",
+          "Misc"
+        ],
+        [
+          "Cat Ninja",
+          "/assets/images/games/cat-ninja.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=cat-ninja.swf",
+          "Flash"
+        ],
+        [
+          "Cell Machine",
+          "/assets/images/games/cell-machine.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/cell-machine/",
+          "Misc"
+        ],
+        [
+          "Choppy Orc",
+          "/assets/images/games/choppy-orc.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/choppy-orc/",
+          "Misc"
+        ],
+        [
+          "Chrome Dino Run",
+          "/assets/images/games/chrome-dino-run.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/chrome-dino-run/",
+          "Misc"
+        ],
+        [
+          "CircloO",
+          "/assets/images/games/circloo.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/circloo/",
+          "Misc"
+        ],
+        [
+          "CleanUp.io",
+          "/assets/images/games/cleanup-io.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/cleanup-io/",
+          "Misc"
+        ],
+        [
+          "Clear Vision Elite",
+          "/assets/images/games/clear-vision-elite.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=clear-vision-elite.swf",
+          "Flash"
+        ],
+        [
+          "Cluster Rush",
+          "/assets/images/games/cluster-rush.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/cluster-rush/",
+          "Misc, Popular"
+        ],
+        [
+          "Color Combat",
+          "/assets/images/games/color-combat.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=color-combat.swf",
+          "Flash"
+        ],
+        [
+          "Commando",
+          "/assets/images/games/commando.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=commando.swf",
+          "Flash"
+        ],
+        [
+          "Contra",
+          "/assets/images/games/contra.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=contra.nes",
+          "Emulator"
+        ],
+        [
+          "Cookie Clicker",
+          "/assets/images/games/cookie-clicker.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/cookie-clicker/",
+          "Misc, Popular"
+        ],
+        [
+          "Corru.Observer",
+          "/assets/images/games/corru-observer.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/corru-observer/",
+          "Misc"
+        ],
+        [
+          "Cover Orange: Gangsters",
+          "/assets/images/games/cover-orange-gangsters.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/cover-orange-gangsters/",
+          "Misc"
+        ],
+        [
+          "Cow Bay",
+          "/assets/images/games/cow-bay.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/cow-bay/",
+          "Misc"
+        ],
+        [
+          "CraftMine",
+          "/assets/images/games/craftmine.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/craftmine/",
+          "Misc"
+        ],
+        [
+          "Creative Kill Chamber 1",
+          "/assets/images/games/creative-kill-chamber-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=creative-kill-chamber-1.swf",
+          "Flash"
+        ],
+        [
+          "Creative Kill Chamber 2",
+          "/assets/images/games/creative-kill-chamber-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=creative-kill-chamber-2.swf",
+          "Flash"
+        ],
+        [
+          "Crossy Road",
+          "/assets/images/games/crossy-road.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/crossy-road/",
+          "Misc"
+        ],
+        [
+          "CS:GO Clicker",
+          "/assets/images/games/csgo-clicker.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/csgo-clicker/",
+          "Misc"
+        ],
+        [
+          "Cube Flip",
+          "/assets/images/games/cube-flip.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/cube-flip/",
+          "Misc"
+        ],
+        [
+          "Cubefield",
+          "/assets/images/games/cubefield.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=cubefield.swf",
+          "Flash"
+        ],
+        [
+          "Cut the Rope",
+          "/assets/images/games/cut-the-rope.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/cut-the-rope/",
+          "Misc, Series, Popular"
+        ],
+        [
+          "Cut the Rope: Holiday Gift",
+          "/assets/images/games/cut-the-rope-holiday-gift.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/cut-the-rope-holiday-gift/",
+          "Misc, Series"
+        ],
+        [
+          "Cut the Rope: Time Travel",
+          "/assets/images/games/cut-the-rope-time-travel.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/cut-the-rope-time-travel/",
+          "Misc, Series"
+        ],
+        [
+          "Dad n' Me",
+          "/assets/images/games/dad-n-me.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=dad-n-me.swf",
+          "Flash"
+        ],
+        [
+          "Dadish",
+          "/assets/images/games/dadish.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/dadish/",
+          "Misc"
+        ],
+        [
+          "Day of Meat: Radiation",
+          "/assets/images/games/day-of-meat-radiation.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/day-of-meat-radiation/",
+          "Misc"
+        ],
+        [
+          "Deadly Descent",
+          "/assets/images/games/deadly-descent.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/deadly-descent/",
+          "Misc"
+        ],
+        [
+          "Deal or No Deal",
+          "/assets/images/games/deal-or-no-deal.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=deal-or-no-deal.swf",
+          "Flash"
+        ],
+        [
+          "Defend Your Castle",
+          "/assets/images/games/defend-your-castle.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=defend-your-castle.swf",
+          "Flash"
+        ],
+        [
+          "Doctor Acorn 2",
+          "/assets/images/games/doctor-acorn-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/doctor-acorn-2/",
+          "Misc"
+        ],
+        [
+          "Donkey Kong",
+          "/assets/images/games/donkey-kong.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=donkey-kong.swf",
+          "Flash"
+        ],
+        [
+          "Don't Whack Your Teacher",
+          "/assets/images/games/dont-whack-your-teacher.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=dont-whack-your-teacher.swf",
+          "Flash"
+        ],
+        [
+          "Doodle Jump",
+          "/assets/images/games/doodle-jump.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/doodle-jump/",
+          "Misc"
+        ],
+        [
+          "Doom",
+          "/assets/images/games/doom.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/doom/",
+          "Emulator"
+        ],
+        [
+          "Double Dragon",
+          "/assets/images/games/double-dragon.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=double-dragons.nes",
+          "Emulator"
+        ],
+        [
+          "Dragon Ball Z",
+          "/assets/images/games/dragon-ball-z.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=dragon-ball-z.swf",
+          "Flash"
+        ],
+        [
+          "Dragon Ball Z Devolution",
+          "/assets/images/games/dragon-ball-z-devolution.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=dragon-ball-z-devolution.swf",
+          "Flash"
+        ],
+        [
+          "Drift City",
+          "/assets/images/games/drift-city.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/drift-city/",
+          "Misc"
+        ],
+        [
+          "Drift Hunters",
+          "/assets/images/games/drift-hunters.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/drift-hunters/",
+          "Misc"
+        ],
+        [
+          "DriftKing.io",
+          "/assets/images/games/drift-king-io.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/drift-king-io/",
+          "Misc"
+        ],
+        [
+          "Duck Hunt",
+          "/assets/images/games/duck-hunt.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=duck-hunt.swf",
+          "Flash"
+        ],
+        [
+          "Duck Life 1",
+          "/assets/images/games/duck-life-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=duck-life-1.swf",
+          "Flash, Series"
+        ],
+        [
+          "Duck Life 2",
+          "/assets/images/games/duck-life-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=duck-life-2.swf",
+          "Flash, Series"
+        ],
+        [
+          "Duck Life 3",
+          "/assets/images/games/duck-life-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=duck-life-3.swf",
+          "Flash, Series"
+        ],
+        [
+          "Duck Life 4",
+          "/assets/images/games/duck-life-4.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=duck-life-4.swf",
+          "Flash, Series"
+        ],
+        [
+          "DuckTales",
+          "/assets/images/games/ducktales.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&ducktales.nes",
+          "Emulator"
+        ],
+        [
+          "DVD Bounce",
+          "/assets/images/games/dvd-bounce.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/dvd-bounce/index.html",
+          "Apps"
+        ],
+        [
+          "Eagle Ride",
+          "/assets/images/games/eagle-ride.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/eagle-ride/",
+          "Misc"
+        ],
+        [
+          "Earn to Die 1",
+          "/assets/images/games/earn-to-die-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=earn-to-die-1.swf",
+          "Flash, Series"
+        ],
+        [
+          "Earn to Die 2",
+          "/assets/images/games/earn-to-die-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=earn-to-die-2.swf",
+          "Flash, Series"
+        ],
+        [
+          "Earn to Die: Part 2",
+          "/assets/images/games/earn-to-die-part-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/earn-to-die-part-2/",
+          "Misc, Series"
+        ],
+        [
+          "Earthbound",
+          "/assets/images/games/earthbound.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=earthbound.sfc",
+          "Emulator"
+        ],
+        [
+          "Earthbound Zero",
+          "/assets/images/games/earthbound-zero.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=earthbound-zero.nes",
+          "Emulator"
+        ],
+        [
+          "Edge Not Found",
+          "/assets/images/games/edge-not-found.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/edge-not-found/",
+          "Misc"
+        ],
+        [
+          "Eggy Car",
+          "/assets/images/games/eggy-car.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/eggy-car/",
+          "Misc"
+        ],
+        [
+          "Electricman 2",
+          "/assets/images/games/electricman-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=electricman-2.swf",
+          "Flash"
+        ],
+        [
+          "Escaping The Prison",
+          "/assets/images/games/escape-the-prison.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=escape-the-prison.swf",
+          "Flash, Series"
+        ],
+        [
+          "Evil Glitch",
+          "/assets/images/games/evil-glitch.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/evil-glitch/",
+          "Misc"
+        ],
+        [
+          "Evolution",
+          "/assets/images/games/evolution.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/evolution/",
+          "Misc"
+        ],
+        [
+          "Excitebike",
+          "/assets/images/games/excitebike.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&excitebike.nes",
+          "Emulator"
+        ],
+        [
+          "Fair Squares",
+          "/assets/images/games/fair-squares.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/fair-squares/",
+          "Misc"
+        ],
+        [
+          "Fake Update",
+          "/assets/images/games/fake-update.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/fake-update/index.html",
+          "Apps"
+        ],
+        [
+          "Fancade",
+          "/assets/images/games/fancade.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/fancade/",
+          "Misc, Launchers, Popular"
+        ],
+        [
+          "Feedvid Live",
+          "/assets/images/games/feedvid-live.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/feedvid-live/",
+          "Misc"
+        ],
+        [
+          "Final Fantasy",
+          "/assets/images/games/final-fantasy.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=final-fantasy.nes",
+          "Emulator"
+        ],
+        [
+          "Fireboy and Watergirl 1",
+          "/assets/images/games/fireboy-and-watergirl-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/fbwg1/",
+          "Misc, Series"
+        ],
+        [
+          "Fireboy and Watergirl 2",
+          "/assets/images/games/fireboy-and-watergirl-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/fire-boy-and-water-girl-2/",
+          "Misc, Series"
+        ],
+        [
+          "Fireboy and Watergirl 3",
+          "/assets/images/games/fireboy-and-watergirl-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/fire-boy-and-water-girl-3/",
+          "Misc, Series"
+        ],
+        [
+          "Fireboy and Watergirl 4",
+          "/assets/images/games/fireboy-and-watergirl-4.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/fire-boy-and-water-girl-4/",
+          "Misc, Series"
+        ],
+        [
+          "Five Nights at Freddy's 1",
+          "/assets/images/games/five-nights-at-freddys-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/five-nights-at-freddys-/",
+          "Misc, Series, Popular"
+        ],
+        [
+          "Five Nights at Freddy's 2",
+          "/assets/images/games/five-nights-at-freddys-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/five-nights-at-freddys-2/",
+          "Misc, Series"
+        ],
+        [
+          "Five Nights at Freddy's 3",
+          "/assets/images/games/five-nights-at-freddys-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/five-nights-at-freddys-3/",
+          "Misc, Series"
+        ],
+        [
+          "Five Nights at Freddy's 4",
+          "/assets/images/games/five-nights-at-freddys-4.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/five-nights-at-freddys-4/",
+          "Misc, Series"
+        ],
+        [
+          "Five Nights at Freddy's Launcher",
+          "/assets/images/games/five-nights-at-freddys-launcher.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/five-nights-at-freddys-launcher/",
+          "Misc, Launchers, Series"
+        ],
+        [
+          "Five Nights at Freddy's Pizzeria Simulator",
+          "/assets/images/games/five-nights-at-freddys-pizzeria-simulator.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/five-nights-at-freddys-pizeria-simulator/",
+          "Misc, Series"
+        ],
+        [
+          "Five Nights at Freddy's Ultimate Custom Night",
+          "/assets/images/games/five-nights-at-freddys-ultimate-custom-night.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/five-nights-at-freddys-ultimate-custom-night/",
+          "Misc, Series"
+        ],
+        [
+          "Five Nights at Freddy's World",
+          "/assets/images/games/five-nights-at-freddys-world.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/five-nights-at-freddys-world/",
+          "Misc, Series"
+        ],
+        [
+          "Five Nights at Winston's",
+          "/assets/images/games/five-nights-at-winstons.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/five-nights-at-winstons/",
+          "Misc"
+        ],
+        [
+          "Fix it Felix Jr.",
+          "/assets/images/games/fix-it-felix-jr.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=genesis_plus_gx&rom=fix-it-felix-jr.bin",
+          "Emulator"
+        ],
+        [
+          "Flappy 2048",
+          "/assets/images/games/flappy-2048.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/flappy-2048-2/",
+          "Misc, Series"
+        ],
+        [
+          "Flappy Bird",
+          "/assets/images/games/flappy-bird.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/flappy-bird/",
+          "Misc"
+        ],
+        [
+          "Fleeing The Complex",
+          "/assets/images/games/fleeing-the-complex.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=fleeing-the-complex.swf",
+          "Flash, Series"
+        ],
+        [
+          "FLIPTHEGUN",
+          "/assets/images/games/flipthegun.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/flipthegun/",
+          "Misc"
+        ],
+        [
+          "Flippy Fish",
+          "/assets/images/games/flippy-fish.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/flippy-fish/",
+          "Misc"
+        ],
+        [
+          "Fly Car Stunt 4",
+          "/assets/images/games/fly-car-stunt-4.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/fly-car-stunt-4/",
+          "Misc"
+        ],
+        [
+          "FortZ",
+          "/assets/images/games/fortz.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/fortz/",
+          "Misc"
+        ],
+        [
+          "Freeway Fury 2",
+          "/assets/images/games/freeway-fury-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=freeway-fury-2.swf",
+          "Flash"
+        ],
+        [
+          "Free The Key",
+          "/assets/images/games/free-the-key.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/free-the-key/",
+          "Misc"
+        ],
+        [
+          "Friday Night Funkin",
+          "/assets/images/games/friday-night-funkin.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/friday-night-funkin/",
+          "Misc"
+        ],
+        [
+          "Friday The 13th",
+          "/assets/images/games/friday-the-13th.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&friday-the-13th.nes",
+          "Emulator"
+        ],
+        [
+          "Fruit Ninja",
+          "/assets/images/games/fruit-ninja.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/fruit-ninja/",
+          "Misc"
+        ],
+        [
+          "Frying Nemo",
+          "/assets/images/games/frying-nemo.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/frying-nemo/",
+          "Misc"
+        ],
+        [
+          "Funny Shooter 1",
+          "/assets/images/games/funny-shooter-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/funny-shooter-1/",
+          "Misc"
+        ],
+        [
+          "Funny Shooter 2",
+          "/assets/images/games/funny-shooter-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/funny-shooter-2/",
+          "Misc"
+        ],
+        [
+          "Game Inside a Game",
+          "/assets/images/games/game-inside-a-game.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/game-inside-a-game/",
+          "Misc"
+        ],
+        [
+          "Generic Fishing Game",
+          "/assets/images/games/generic-fishing-game.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/generic-fishing-game/",
+          "Misc"
+        ],
+        [
+          "George and the Printer",
+          "/assets/images/games/george-and-the-printer.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/george-and-the-printer/",
+          "Misc"
+        ],
+        [
+          "Getaway Shootout",
+          "/assets/images/games/getaway-shootout.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/getaway-shootout/",
+          "Misc"
+        ],
+        [
+          "Gimme the Airpod",
+          "/assets/images/games/gimme-the-airpod.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/gimme-the-airpod/",
+          "Misc"
+        ],
+        [
+          "Gold Digger FRVR",
+          "/assets/images/games/gold-digger-frvr.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/gold-digger-frvr/",
+          "Misc"
+        ],
+        [
+          "Goodnight",
+          "/assets/images/games/goodnight.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/goodnight/",
+          "Misc"
+        ],
+        [
+          "Google Breakout",
+          "/assets/images/games/google-breakout.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/google-breakout/",
+          "Misc"
+        ],
+        [
+          "Google Feud",
+          "/assets/images/games/google-feud.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/google-feud/",
+          "Misc"
+        ],
+        [
+          "Google Minesweeper",
+          "/assets/images/games/google-minesweeper.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/google-minesweeper/",
+          "Misc"
+        ],
+        [
+          "Google Snake",
+          "/assets/images/games/google-snake.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/google-snake/",
+          "Misc"
+        ],
+        [
+          "Goomy Clicker 1",
+          "/assets/images/games/goomy-clicker-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/goomy-clicker-1/",
+          "Misc"
+        ],
+        [
+          "Goomy Clicker 2",
+          "/assets/images/games/goomy-clicker-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/goomy-clicker-2/",
+          "Misc"
+        ],
+        [
+          "Granny",
+          "/assets/images/games/granny.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/granny/",
+          "Misc"
+        ],
+        [
+          "Gravity Soccer",
+          "/assets/images/games/gravity-soccer.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/gravity-soccer/",
+          "Misc"
+        ],
+        [
+          "Grey-Box Testing",
+          "/assets/images/games/greybox-testing.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/greybox-testing/",
+          "Misc"
+        ],
+        [
+          "GrindCraft",
+          "/assets/images/games/grindcraft.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/grindcraft/",
+          "Misc"
+        ],
+        [
+          "Grumace",
+          "/assets/images/games/grumace.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/grumace/",
+          "Misc"
+        ],
+        [
+          "Gun Mayhem 2",
+          "/assets/images/games/gun-mayhem-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=gun-mayhem-2.swf",
+          "Flash"
+        ],
+        [
+          "Gunblood",
+          "/assets/images/games/gunblood.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=gunblood.swf",
+          "Flash"
+        ],
+        [
+          "Hack Slash Build!",
+          "/assets/images/games/hack-slash-build.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/hsb/",
+          "Misc"
+        ],
+        [
+          "Happy Wheels",
+          "/assets/images/games/happy-wheels.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/happy-wheels/",
+          "Misc"
+        ],
+        [
+          "Highway Racer",
+          "/assets/images/games/highway-racer.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/highway-racer/",
+          "Misc"
+        ],
+        [
+          "Hills of Steel",
+          "/assets/images/games/hills-of-steel.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/hills-of-steel/",
+          "Misc"
+        ],
+        [
+          "Hobo 1",
+          "/assets/images/games/hobo-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=hobo-1.swf",
+          "Flash, Series"
+        ],
+        [
+          "Hobo 2: Prison Brawl",
+          "/assets/images/games/hobo-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=hobo-2.swf",
+          "Flash, Series"
+         ],
+        [
+          "Hobo 3: Wanted",
+          "/assets/images/games/hobo-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=hobo-3.swf",
+          "Flash, Series"
+        ],
+        [
+          "Hobo 4: Total War",
+          "/assets/images/games/hobo-4.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=hobo-4.swf",
+          "Flash, Series"
+        ],
+        [
+          "Hobo 5: Space Brawls",
+          "/assets/images/games/hobo-5.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=hobo-5.swf",
+          "Flash, Series"
+        ],
+        [
+          "Hobo 6: Hell",
+          "/assets/images/games/hobo-6.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=hobo-6.swf",
+          "Flash, Series"
+        ],
+        [
+          "Hobo 7: Heaven",
+          "/assets/images/games/hobo-7.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=hobo-7.swf",
+          "Flash, Series"
+        ],
+        [
+          "Horde Killer",
+          "/assets/images/games/horde-killer.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/horde-killer/",
+          "Misc"
+        ],
+        [
+          "HTML Editor",
+          "/assets/images/games/html-editor.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/html-editor/index.html",
+          "Apps"
+        ],
+        [
+          "Ice Scream 1",
+          "/assets/images/games/ice-scream-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/ice-scream-1/",
+          "Misc"
+        ],
+        [
+          "Idle Dice",
+          "/assets/images/games/idle-dice.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/idle-dices/",
+          "Misc"
+        ],
+        [
+          "Idle Gun",
+          "/assets/images/games/idle-gun.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/idle-gun/",
+          "Misc"
+        ],
+        [
+          "Idle Shark Game",
+          "/assets/images/games/idle-shark-game.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/idle-shark/",
+          "Misc"
+        ],
+        [
+          "Idle Startup Tycoon",
+          "/assets/images/games/idle-startup-tycoon.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/idle-startup-tycoon/",
+          "Misc"
+        ],
+        [
+          "Infiltrating The Airship",
+          "/assets/images/games/infiltrating-the-airship.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=infiltrating-the-airship.swf",
+          "Flash, Series"
+        ],
+        [
+          "Interactive Buddy 1",
+          "/assets/images/games/interactive-buddy-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=interactive-buddy-1.swf",
+          "Flash"
+        ],
+        [
+          "Interactive Buddy 2",
+          "/assets/images/games/interactive-buddy-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=interactive-buddy-2.swf",
+          "Flash"
+        ],
+        [
+          "Iron Snout",
+          "/assets/images/games/iron-snout.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/iron-snout/",
+          "Misc"
+        ],
+        [
+          "Jacksmith",
+          "/assets/images/games/jacksmith.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=jacksmith.swf",
+          "Flash"
+        ],
+        [
+          "Janissary Battles",
+          "/assets/images/games/janissary-battles.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/janissary-battles/",
+          "Misc"
+        ],
+        [
+          "Jelly Truck",
+          "/assets/images/games/jelly-truck.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/jelly-truck/",
+          "Misc"
+        ],
+        [
+          "Jetpack Joyride",
+          "/assets/images/games/jetpack-joyride.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/jetpack-joyride/",
+          "Misc"
+        ],
+        [
+          "Johnny Rocketfingers 1",
+          "/assets/images/games/johnny-rocketfingers-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=johnny-rocketfingers-1.swf",
+          "Flash"
+        ],
+        [
+          "Johnny Rocketfingers 2",
+          "/assets/images/games/johnny-rocketfingers-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=johnny-rocketfingers-2.swf",
+          "Flash"
+        ],
+        [
+          "Just Fall.lol",
+          "/assets/images/games/just-falllol.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/just-falllol/",
+          "Misc"
+        ],
+        [
+          "Just One Boss",
+          "/assets/images/games/just-one-boss.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/just-one-boss/",
+          "Misc"
+        ],
+        [
+          "Kids vs Ice Cream",
+          "/assets/images/games/kids-vs-ice-cream.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=kids-vs-ice-cream.swf",
+          "Flash"
+        ],
+        [
+          "Kirby Super Star",
+          "/assets/images/games/kirby-super-star.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=kirby-super-star.smc",
+          "Emulator"
+        ],
+        [
+          "Kitchen Gun",
+          "/assets/images/games/kitchen-gun.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/kitchen-gun-game/",
+          "Misc"
+        ],
+        [
+          "Kiwi Clicker",
+          "/assets/images/games/kiwi-clicker.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/kiwi-clicker/",
+          "Misc"
+        ],
+        [
+          "Krunker.io",
+          "/assets/images/games/krunker-io.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/krunker/",
+          "Misc"
+        ],
+        [
+          "Learn to Fly 1",
+          "/assets/images/games/learn-to-fly-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=learn-to-fly-1.swf",
+          "Flash, Series"
+        ],
+        [
+          "Learn to Fly 2",
+          "/assets/images/games/learn-to-fly-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=learn-to-fly-2.swf",
+          "Flash, Series"
+        ],
+        [
+          "Learn to Fly 3",
+          "/assets/images/games/learn-to-fly-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=learn-to-fly-3.swf",
+          "Flash, Series"
+        ],
+        [
+          "Like A King!",
+          "/assets/images/games/like-a-king.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/like-a-king/",
+          "Misc"
+        ],
+        [
+          "Little Alchemy",
+          "/assets/images/games/little-alchemy.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/little-alchemy/",
+          "Misc"
+        ],
+        [
+          "Low's Adventures",
+          "/assets/images/games/lows-adventures.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/lows-adventures/",
+          "Misc"
+        ],
+        [
+          "Madalin Stunt Cars 2",
+          "/assets/images/games/madalin-stunt-cars-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/madalin-stunt-cars-2/",
+          "Misc"
+        ],
+        [
+          "Madalin Stunt Cars 3",
+          "/assets/images/games/madalin-stunt-cars-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/madalin-stunt-cars-3/",
+          "Misc"
+        ],
+        [
+          "Make Sure It's Closed",
+          "/assets/images/games/make-sure-its-closed.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/make-sure-its-cloased/",
+          "Misc"
+        ],
+        [
+          "Marble Dash",
+          "/assets/images/games/marble-dash.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/marble-dash/",
+          "Misc"
+        ],
+        [
+          "Mari0",
+          "/assets/images/games/mari0.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/mari0/",
+          "Misc"
+        ],
+        [
+          "Mario & Luigi: Superstar Saga",
+          "/assets/images/games/mario-n-luigi-superstar-saga.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=mario-n-luigi-superstar-saga.gba",
+          "Emulator"
+        ],
+        [
+          "Mario Combat",
+          "/assets/images/games/mario-combat.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=mario-combat.swf",
+          "Flash"
+        ],
+        [
+          "Mario Kart 64",
+          "/assets/images/games/mario-kart-64.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=mario-kart-64.z64",
+          "Emulator"
+        ],
+        [
+          "Mario Kart DS",
+          "/assets/images/games/mario-kart-ds.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=mario-kard-ds.nds",
+          "Emulator"
+        ],
+        [
+          "Mario Kart Flash",
+          "/assets/images/games/mario-kart-flash.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=mario-kart-flash.swf",
+          "Flash"
+        ],
+        [
+          "Master Chess",
+          "/assets/images/games/master-chess.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/master-chess/",
+          "Misc"
+        ],
+        [
+          "Maze Planet 3D",
+          "/assets/images/games/maze-planet-3d.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/maze-planet-3d/",
+          "Misc"
+        ],
+        [
+          "Mega Man 2",
+          "/assets/images/games/mega-man-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=mega-man-2.nes",
+          "Emulator"
+        ],
+        [
+          "Merge Round Racers",
+          "/assets/images/games/merge-round-racers.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/merge-round-racers/",
+          "Misc"
+        ],
+        [
+          "Miami Shark",
+          "/assets/images/games/miami-shark.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=miami-shark.swf",
+          "Flash"
+        ],
+        [
+          "Mike Tyson's Punch Out",
+          "/assets/images/games/mike-tysons-punch-out.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=mike-tysons-punch-out.nes",
+          "Emulator"
+        ],
+        [
+          "Mindustry",
+          "/assets/images/games/mindustry.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/mindustry/",
+          "Misc"
+        ],
+        [
+          "Mine Blocks",
+          "/assets/images/games/mine-blocks.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/mine-blocks/",
+          "Misc"
+        ],
+        [
+          "Minecraft (Classic)",
+          "/assets/images/games/minecraft-classic.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/minecraft-classic/",
+          "Misc"
+        ],
+        [
+          "Minecraft Tower Defense",
+          "/assets/images/games/minecraft-tower-defense.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=minecraft-tower-defense.swf",
+          "Flash"
+        ],
+        [
+          "Minecraft JS",
+          "/assets/images/games/minecraft-js.png",
+          "https://mc-js.web.app/",
+          "Misc, Popular"
+        ],
+        [
+          "Minicraft",
+          "/assets/images/games/minicraft.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/minicraft/",
+          "Misc"
+        ],
+        [
+          "Mini Golf World",
+          "/assets/images/games/mini-golf-world.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/mini-golf-world/",
+          "Misc"
+        ],
+        [
+          "Mini Putt",
+          "/assets/images/games/mini-putt.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=mini-putt.swf",
+          "Flash"
+        ],
+        [
+          "Mini Shooters",
+          "/assets/images/games/mini-shooters.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/mini-shooters/",
+          "Misc"
+        ],
+        [
+          "Money Land",
+          "/assets/images/games/money-land.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/money-land/",
+          "Misc"
+        ],
+        [
+          "Monkey Mart",
+          "/assets/images/games/monkey-mart.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/monkey-mart/",
+          "Misc, Popular"
+        ],
+        [
+          "Mother 3",
+          "/assets/images/games/mother-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=mother-3.gba",
+          "Emulator"
+        ],
+        [
+          "Moto X3M",
+          "/assets/images/games/moto-x3m.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/moto-x3m/",
+          "Misc, Series, Popular"
+        ],
+        [
+          "Moto X3M Pool Party",
+          "/assets/images/games/moto-x3m-pool-party.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/moto-x3m-pool-party/",
+          "Misc, Series"
+        ],
+        [
+          "Moto X3M Spooky Land",
+          "/assets/images/games/moto-x3m-spooky-land.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/moto-x3m-spooky-land/",
+          "Misc, Series"
+        ],
+        [
+          "Moto X3M Winter",
+          "/assets/images/games/moto-x3m-winter.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/moto-x3m-winter/",
+          "Misc, Series"
+        ],
+        [
+          "Mutilate a Doll",
+          "/assets/images/games/mutilate-a-doll.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=mutilate-a-doll.swf",
+          "Flash"
+        ],
+        [
+          "My Rusty Submarine",
+          "/assets/images/games/my-rusty-submarine.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/my-rusty-submarine/",
+          "Misc"
+        ],
+        [
+          "N Gon",
+          "/assets/images/games/n-gon.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/n-gon/",
+          "Misc"
+        ],
+        [
+          "Neon Flytron",
+          "/assets/images/games/neon-flytron.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/neon-flytron/",
+          "Misc"
+        ],
+        [
+          "Neon Square: Resurgence",
+          "/assets/images/games/neon-square-resurgence.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/neon-square-resurgence/",
+          "Misc"
+        ],
+        [
+          "NetSpate",
+          "/assets/images/games/netspate.png",
+          "https://netspate.web.app/pages/home.html",
+          "Apps"
+        ],
+        [
+          "Neverending Legacy",
+          "/assets/images/games/neverending-legacy.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/neverending-legacy/",
+          "Misc"
+        ],
+        [
+          "New Super Mario Bros",
+          "/assets/images/games/new-super-mario-bros.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=new-super-mario-bros.nds",
+          "Emulator"
+        ],
+        [
+          "New York Shark",
+          "/assets/images/games/new-york-shark.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=new-york-shark.swf",
+          "Flash"
+        ],
+        [
+          "Om Nom Bounce",
+          "/assets/images/games/om-nom-bounce.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/om-nom-bounce/",
+          "Misc"
+        ],
+        [
+          "One Chance",
+          "/assets/images/games/one-chance.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=one-chance.swf",
+          "Flash"
+        ],
+        [
+          "OpenTTD",
+          "/assets/images/games/openttd.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/openttd/",
+          "Emulator"
+        ],
+        [
+          "Opossum Country",
+          "/assets/images/games/opossum-country.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/opossum-country/",
+          "Misc"
+        ],
+        [
+          "Ovo",
+          "/assets/images/games/ovo.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/ovo/",
+          "Misc"
+        ],
+        [
+          "Pac-Man",
+          "/assets/images/games/pac-man.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=pac-man.swf",
+          "Flash"
+        ],
+        [
+          "Papa's Bakeria",
+          "/assets/images/games/papas-bakeria.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-bakeria.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Burgeria",
+          "/assets/images/games/papas-burgeria.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-burgeria.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Cheeseria",
+          "/assets/images/games/papas-cheeseria.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-cheeseria.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Cupcakeria",
+          "/assets/images/games/papas-cupcakeria.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-cupcakeria.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Donuteria",
+          "/assets/images/games/papas-donuteria.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-donuteria.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Freezeria",
+          "/assets/images/games/papas-freezeria.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-freezeria.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Hot Doggeria",
+          "/assets/images/games/papas-hot-doggeria.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-hot-doggeria.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Pancakeria",
+          "/assets/images/games/papas-pancakeria.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-pancakeria.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Pastaria",
+          "/assets/images/games/papas-pastaria.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-pastaria.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Pizzeria",
+          "/assets/images/games/papas-pizzeria.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-pizzeria.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Scooperia",
+          "/assets/images/games/papas-scooperia.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-scooperia.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Sushiria",
+          "/assets/images/games/papas-sushiria.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-sushiria.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Taco Mia",
+          "/assets/images/games/papas-taco-mia.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-tacomia.swf",
+          "Flash, Series"
+        ],
+        [
+          "Papa's Wingeria",
+          "/assets/images/games/papas-wingeria.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=papas-wingeria.swf",
+          "Flash, Series"
+        ],
+        [
+          "Paper.io 2",
+          "/assets/images/games/paperio-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/paperio-2/",
+          "Misc"
+        ],
+        [
+          "Paper Mario 64",
+          "/assets/images/games/paper-mario-64.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=paper-mario-64.z64",
+          "Emulator"
+        ],
+        [
+          "Papery Planes",
+          "/assets/images/games/papery-planes.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/papery-planes/",
+          "Misc"
+        ],
+        [
+          "Picky Package",
+          "/assets/images/games/picky-package.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/picky-package/",
+          "Misc"
+        ],
+        [
+          "Pizza Tower",
+          "/assets/images/games/pizza-tower.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/pizza-tower/",
+          "Misc"
+        ],
+        [
+          "Plants vs. Zombies",
+          "/assets/images/games/plants-vs-zombies.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=plants-vs-zombies.swf",
+          "Flash"
+        ],
+        [
+          "Pokemon Sapphire",
+          "/assets/images/games/pokemon-sapphire.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=pokemon-sapphire.gba",
+          "Emulator"
+        ],
+        [
+          "Pokey Stick",
+          "/assets/images/games/pokey-stick.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/pokey-stick/",
+          "Misc"
+        ],
+        [
+          "Police Chase",
+          "/assets/images/games/police-chase.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/police-chase/",
+          "Misc"
+        ],
+        [
+          "Polytrack",
+          "/assets/images/games/polytrack.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/polytrack/",
+          "Misc"
+        ],
+        [
+          "Pong",
+          "/assets/images/games/pong.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=pong.swf",
+          "Flash"
+        ],
+        [
+          "Poor Bunny",
+          "/assets/images/games/poor-bunny.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/poor-bunnies/",
+          "Misc"
+        ],
+        [
+          "Portal GO",
+          "/assets/images/games/portal-go.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/portal-go/",
+          "Misc"
+        ],
+        [
+          "Portal: The Flash Version",
+          "/assets/images/games/portal-the-flash-version.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=portal-the-flash-version.swf",
+          "Flash"
+        ],
+        [
+          "Potty Racers 1",
+          "/assets/images/games/potty-racers-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=potty-racers-1.swf",
+          "Flash, Series"
+        ],
+        [
+          "Potty Racers 2",
+          "/assets/images/games/potty-racers-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=potty-racers-2.swf",
+          "Flash, Series"
+        ],
+        [
+          "Potty Racers 3",
+          "/assets/images/games/potty-racers-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=potty-racers-3.swf",
+          "Flash, Series"
+        ],
+        [
+          "Potty Racers 4",
+          "/assets/images/games/potty-racers-4.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=potty-racers-4.swf",
+          "Flash, Series"
+        ],
+        [
+          "Protektor",
+          "/assets/images/games/protektor.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/protektor/",
+          "Misc"
+        ],
+        [
+          "Push the Square",
+          "/assets/images/games/push-the-square.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/push-the-square/",
+          "Misc"
+        ],
+        [
+          "Rabbit Samurai 1",
+          "/assets/images/games/rabbit-samurai-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/rabbit-samurai-1/",
+          "Misc"
+        ],
+        [
+          "Rabbit Samurai 2",
+          "/assets/images/games/rabbit-samurai-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/rabbit-samurai-2/",
+          "Misc"
+        ],
+        [
+          "Raft Wars 1",
+          "/assets/images/games/raft-wars-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=raft-wars-1.swf",
+          "Flash"
+        ],
+        [
+          "Raft Wars 2",
+          "/assets/images/games/raft-wars-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=raft-wars-2.swf",
+          "Flash"
+        ],
+        [
+          "Ragdoll Avalanche 2",
+          "/assets/images/games/ragdoll-avalanche-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=ragdoll-avalanche-2.swf",
+          "Flash"
+        ],
+        [
+          "Rage 3",
+          "/assets/images/games/rage-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=rage-3.swf",
+          "Flash"
+        ],
+        [
+          "Rally Point 3",
+          "/assets/images/games/rally-point-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/rally-point-3/",
+          "Misc"
+        ],
+        [
+          "Recoil",
+          "/assets/images/games/recoil.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/recoil/",
+          "Misc"
+        ],
+        [
+          "Red Ball 4",
+          "/assets/images/games/red-ball-4.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/red-ball-4/",
+          "Misc"
+        ],
+        [
+          "Retrohaunt",
+          "/assets/images/games/retrohaunt.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/retrohaunt/",
+          "Misc"
+        ],
+        [
+          "Retro Bowl",
+          "/assets/images/games/retro-bowl.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/retro-bowl/",
+          "Misc"
+        ],
+        [
+          "Riddle School 1",
+          "/assets/images/games/riddle-school-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=riddle-school-1.swf",
+          "Flash, Series"
+        ],
+        [
+          "Riddle School 2",
+          "/assets/images/games/riddle-school-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=riddle-school-2.swf",
+          "Flash, Series"
+        ],
+        [
+          "Riddle School 3",
+          "/assets/images/games/riddle-school-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=riddle-school-3.swf",
+          "Flash, Series"
+        ],
+        [
+          "Riddle School 4",
+          "/assets/images/games/riddle-school-4.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=riddle-school-4.swf",
+          "Flash, Series"
+        ],
+        [
+          "Riddle School 5",
+          "/assets/images/games/riddle-school-5.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=riddle-school-5.swf",
+          "Flash, Series"
+        ],
+        [
+          "Riddle Transfer 1",
+          "/assets/images/games/riddle-transfer-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=riddle-transfer-1.swf",
+          "Flash, Series"
+        ],
+        [
+          "Riddle Transfer 2",
+          "/assets/images/games/riddle-transfer-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=riddle-transfer-2.swf",
+          "Flash, Series"
+        ],
+        [
+          "Rio Rex",
+          "/assets/images/games/rio-rex.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/rio-rex/",
+          "Misc"
+        ],
+        [
+          "River City Ransom",
+          "/assets/images/games/river-city-ransom.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&river-city-ransom.nes",
+          "Emulator"
+        ],
+        [
+          "Roblox",
+          "/assets/images/games/roblox.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/roblox/",
+          "Misc"
+        ],
+        [
+          "Rocket Soccer Derby",
+          "/assets/images/games/rocket-soccer-derby.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/rocket-soccer-derby/",
+          "Misc"
+        ],
+        [
+          "Rodeo Stampede",
+          "/assets/images/games/rodeo-stampede.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/rodeo-stampede/",
+          "Misc"
+        ],
+        [
+          "Rolling Forests",
+          "/assets/images/games/rolling-forests.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/rolling-forests/",
+          "Misc"
+        ],
+        [
+          "Rooftop Snipers 1",
+          "/assets/images/games/rooftop-snipers-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/rooftop-snipers-1/",
+          "Misc"
+        ],
+        [
+          "Rooftop Snipers 2",
+          "/assets/images/games/rooftop-snipers-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/rooftop-snipers-2/",
+          "Misc"
+        ],
+        [
+          "Ruffle",
+          "/assets/images/games/ruffle.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html",
+          "Apps"
+        ],
+        [
+          "Run 1",
+          "/assets/images/games/run-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=run-1.swf",
+          "Flash, Series"
+        ],
+        [
+          "Run 2",
+          "/assets/images/games/run-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=run-2.swf",
+          "Flash, Series"
+        ],
+        [
+          "Run 3",
+          "/assets/images/games/run-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/run-3/",
+          "Misc, Series"
+        ],
+        [
+          "Sandboxels",
+          "/assets/images/games/sandboxels.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/sandboxels/",
+          "Misc"
+        ],
+        [
+          "Sans Fight",
+          "/assets/images/games/sans-fight.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/sans-fight/",
+          "Misc"
+        ],
+        [
+          "Santy Is Home",
+          "/assets/images/games/santy-is-home.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/santy-is-home/",
+          "Misc"
+        ],
+        [
+          "Scrap Metal 3: Infernal Trap",
+          "/assets/images/games/scrap-metal-3-infernal-trap.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/scrap-metal-3-infernal-trap/",
+          "Misc"
+        ],
+        [
+          "Shortcut Race",
+          "/assets/images/games/shortcut-race.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/shortcut-race/",
+          "Misc"
+        ],
+        [
+          "Slide in the Woods",
+          "/assets/images/games/slide-in-the-woods.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/slide-in-the-woods/",
+          "Misc"
+        ],
+        [
+          "Slime Rush TD",
+          "/assets/images/games/slime-rush-td.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/slime-rush-td/",
+          "Misc"
+        ],
+        [
+          "Sling Drift",
+          "/assets/images/games/sling-drift.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/sling-drift/",
+          "Misc"
+        ],
+        [
+          "Slither.io",
+          "/assets/images/games/slitherio.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/slitherio/",
+          "Misc"
+        ],
+        [
+          "Slope 1",
+          "/assets/images/games/slope-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/slope-1/",
+          "Misc"
+        ],
+        [
+          "Slope 2",
+          "/assets/images/games/slope-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/slope-2/",
+          "Misc"
+        ],
+        [
+          "Slow Roads.io",
+          "/assets/images/games/slow-roadsio.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/slow-roadsio/",
+          "Misc"
+        ],
+        [
+          "Smash Karts",
+          "/assets/images/games/smash-karts.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/smash-karts/",
+          "Misc"
+        ],
+        [
+          "Snail Bob",
+          "/assets/images/games/snail-bob.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=snail-bob.swf",
+          "Flash"
+        ],
+        [
+          "Snow Rider 3D",
+          "/assets/images/games/snow-rider-3d.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/snow-rider-3d/",
+          "Misc, Popular"
+        ],
+        [
+          "SnowBattle.io",
+          "/assets/images/games/snowbattleio.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/snowbattleio/",
+          "Misc"
+        ],
+        [
+          "Soccer Random",
+          "/assets/images/games/soccer-random.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/soccer-random/",
+          "Misc"
+        ],
+        [
+          "Solitaire",
+          "/assets/images/games/solitaire.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/solitaire/",
+          "Misc"
+        ],
+        [
+          "Sonic Advance",
+          "/assets/images/games/sonic-advance.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=sonic-advance.gba",
+          "Emulator"
+        ],
+        [
+          "Sort the Court",
+          "/assets/images/games/sort-the-court.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/sort-the-court/",
+          "Misc"
+        ],
+        [
+          "Soul Jumper",
+          "/assets/images/games/soul-jumper.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/soul-jumper/",
+          "Misc"
+        ],
+        [
+          "Space Company",
+          "/assets/images/games/space-company.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/space-company/",
+          "Misc"
+        ],
+        [
+          "Space Garden",
+          "/assets/images/games/space-garden.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/space-garden/",
+          "Misc"
+        ],
+        [
+          "Spacebar Clicker",
+          "/assets/images/games/spacebar-clicker.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/spacebar-clicker/",
+          "Misc"
+        ],
+        [
+          "Spelunky",
+          "/assets/images/games/spelunky.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/spelunky/",
+          "Misc"
+        ],
+        [
+          "Spiral Roll",
+          "/assets/images/games/spiral-roll.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/spiral-roll/",
+          "Misc"
+        ],
+        [
+          "Stack",
+          "/assets/images/games/stack.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/stack/",
+          "Misc"
+        ],
+        [
+          "Starve.io",
+          "/assets/images/games/starveio.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/starveio/",
+          "Misc"
+        ],
+        [
+          "Station 141",
+          "/assets/images/games/station-141.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/station-141/",
+          "Misc"
+        ],
+        [
+          "Steal This Election",
+          "/assets/images/games/steal-this-election.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/steal-this-election/",
+          "Misc"
+        ],
+        [
+          "Stealing The Diamond",
+          "/assets/images/games/steal-the-diamond.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=steal-the-diamond.swf",
+          "Flash, Series"
+        ],
+        [
+          "Stick RPG",
+          "/assets/images/games/stick-rpg.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=stick-rpg.swf",
+          "Flash"
+        ],
+        [
+          "Stick War",
+          "/assets/images/games/stick-war.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=stic-kwar.swf",
+          "Flash"
+        ],
+        [
+          "Stickman Boost",
+          "/assets/images/games/stickman-boost.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/stickman-boost/",
+          "Misc"
+        ],
+        [
+          "Stickman Hook",
+          "/assets/images/games/stickman-hook.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/stickman-hook/",
+          "Misc"
+        ],
+        [
+          "Storm The House 2",
+          "/assets/images/games/storm-the-house-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=storm-the-house-2.swf",
+          "Flash"
+        ],
+        [
+          "Strange Insults",
+          "/assets/images/games/strange-insults.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/strange-insults/index.html",
+          "Apps"
+        ],
+        [
+          "Striker Dummies",
+          "/assets/images/games/striker-dummies.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/striker-dummies/",
+          "Misc"
+        ],
+        [
+          "Stunt Car Challenge 3",
+          "/assets/images/games/stunt-car-challenge-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/stunt-car-challenge-3/",
+          "Misc"
+        ],
+        [
+          "Subway Surfers",
+          "/assets/images/games/subway-surfers.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/subway-surfers/",
+          "Misc"
+        ],
+        [
+          "Superhot",
+          "/assets/images/games/superhot.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/superhot/",
+          "Misc"
+        ],
+        [
+          "Super Fowlst",
+          "/assets/images/games/super-fowlst.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/super-fowlst/",
+          "Misc"
+        ],
+        [
+          "Super Mario 63",
+          "/assets/images/games/super-mario-63.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=super-mario-63.swf",
+          "Flash"
+        ],
+        [
+          "Super Mario 64",
+          "/assets/images/games/super-mario-64.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/super-mario-64/",
+          "Emulator"
+        ],
+        [
+          "Super Mario Bros. 1",
+          "/assets/images/games/super-mario-bros-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=super-mario-bros-1.nes",
+          "Emulator, Series"
+        ],
+        [
+          "Super Mario Bros. 2",
+          "/assets/images/games/super-mario-bros-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&super-mario-bros-2.nes",
+          "Emulator, Series"
+        ],
+        [
+          "Super Mario Bros. 3",
+          "/assets/images/games/super-mario-bros-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&super-mario-bros-3.nes",
+          "Emulator, Series"
+        ],
+        [
+          "Super Mario Construct",
+          "/assets/images/games/super-mario-construct.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/super-mario-construct/",
+          "Misc"
+        ],
+        [
+          "Super Mario Flash",
+          "/assets/images/games/super-mario-flash.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=super-mario-flash.swf",
+          "Flash"
+        ],
+        [
+          "Super Mario Kart",
+          "/assets/images/games/super-mario-kart.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=super-mario-kart.smc",
+          "Emulator"
+        ],
+        [
+          "Super Mario RPG",
+          "/assets/images/games/super-mario-rpg.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=super-mario-rpg.smc",
+          "Emulator"
+        ],
+        [
+          "Super Mario World",
+          "/assets/images/games/super-mario-world.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=super-mario-world.smc",
+          "Emulator"
+        ],
+        [
+          "Super Meat Boy",
+          "/assets/images/games/super-meat-boy.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=super-meat-boy.swf",
+          "Flash"
+        ],
+        [
+          "Super Metroid",
+          "/assets/images/games/super-metroid.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=super-metroid.sfc",
+          "Emulator"
+        ],
+        [
+          "Super Smash Flash",
+          "/assets/images/games/super-smash-flash.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=super-smash-flash.swf",
+          "Flash"
+        ],
+        [
+          "Super Stickman Golf",
+          "/assets/images/games/super-stickman-golf.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/super-stickman-golf/",
+          "Misc"
+        ],
+        [
+          "Super Street Fighter II TURBO",
+          "/assets/images/games/super-street-fighter-ii-turbo.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/dos/ssf2t.html",
+          "Emulator"
+        ],
+        [
+          "Surviv.io",
+          "/assets/images/games/survivio.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/survivio/",
+          "Misc"
+        ],
+        [
+          "Sushi Unroll",
+          "/assets/images/games/sushi-unroll.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/sushi-unroll/",
+          "Misc"
+        ],
+        [
+          "Swerve",
+          "/assets/images/games/swerve.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/swerve/",
+          "Misc"
+        ],
+        [
+          "Tactical Assasin 2",
+          "/assets/images/games/tactical-assassin-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=tactical-assasin-2.swf",
+          "Flash"
+        ],
+        [
+          "Tactical Weapon Pack 2",
+          "/assets/images/games/tactical-weapon-pack-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/tactical-weapon-pack-2/",
+          "Misc"
+        ],
+        [
+          "Tank Trouble",
+          "/assets/images/games/tank-trouble.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=tank-trouble.swf",
+          "Flash"
+        ],
+        [
+          "Tank Trouble 2",
+          "/assets/images/games/tank-trouble-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/tank-trouble-2/",
+          "Misc"
+        ],
+        [
+          "Temple Run 2",
+          "/assets/images/games/temple-run-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/temple-run-2/",
+          "Misc"
+        ],
+        [
+          "Tetris",
+          "/assets/images/games/tetris.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=tetris.swf",
+          "Flash"
+        ],
+        [
+          "Tetris Advance",
+          "/assets/images/games/tetris-advance.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/tetris-advance/",
+          "Misc"
+        ],
+        [
+          "The Binding of Isaac",
+          "/assets/images/games/the-binding-of-isaac.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=the-binding-of-isaac.swf",
+          "Flash"
+        ],
+        [
+          "The Fancy Pants Adventures",
+          "/assets/images/games/the-fancy-pants-adventures.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=the-fancy-pants-adventures.swf",
+          "Flash"
+        ],
+        [
+          "The Final Earth 2",
+          "/assets/images/games/the-final-earth-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/the-final-earth-2/",
+          "Misc"
+        ],
+        [
+          "The Heist",
+          "/assets/images/games/the-heist.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=the-heist.swf",
+          "Flash"
+        ],
+        [
+          "The Impossible Quiz",
+          "/assets/images/games/the-impossible-quiz.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=the-impossible-quiz.swf",
+          "Flash"
+        ],
+        [
+          "The Legend of Zelda",
+          "/assets/images/games/the-legend-of-zelda.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=the-legend-of-zelda.nes",
+          "Emulator"
+        ],
+        [
+          "The Legend of Zelda: A Link to the Past",
+          "/assets/images/games/the-legend-of-zelda-a-link-to-the-past.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=the-legend-of-zelda-a-link-to-the-past.smc",
+          "Emulator"
+        ],
+        [
+          "The Legend Of Zelda: Link's Awakening",
+          "/assets/images/games/the-legend-of-zelda-links-awakening.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=the-legend-of-zelda-links-awakening.gbc",
+          "Emulator"
+        ],
+        [
+          "The Legend of Zelda: The Minish Cap",
+          "/assets/images/games/the-legend-of-zelda-the-minish-cap.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=the-legend-of-zelda-the-minish-cap.gba",
+          "Emulator"
+        ],
+        [
+          "The Little Giant",
+          "/assets/images/games/the-little-giant.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/the-little-giant/",
+          "Misc"
+        ],
+        [
+          "The Oregon Trail Deluxe",
+          "/assets/images/games/the-oregon-trail-deluxe.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/dos/tot.html",
+          "Emulator"
+        ],
+        [
+          "The Visitor",
+          "/assets/images/games/the-visitor.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=the-visitor.swf",
+          "Flash"
+        ],
+        [
+          "The Visitor Returns",
+          "/assets/images/games/the-visitor-returns.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=the-visitor-returns.swf",
+          "Flash"
+        ],
+        [
+          "The World's Hardest Game 1",
+          "/assets/images/games/worlds-hardest-game-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=the-worlds-hardest-game-1.swf",
+          "Flash"
+        ],
+        [
+          "The World's Hardest Game 2",
+          "/assets/images/games/worlds-hardest-game-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=the-worlds-hardest-game-2.swf",
+          "Flash"
+        ],
+        [
+          "There is No Game",
+          "/assets/images/games/there-is-no-game.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/there-is-no-game/",
+          "Misc"
+        ],
+        [
+          "This is the Only Level",
+          "/assets/images/games/this-is-the-only-level.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=this-is-the-only-level.swf",
+          "Flash"
+        ],
+        [
+          "Time Shooter 2",
+          "/assets/images/games/time-shooter-2.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/time-shooter-2/",
+          "Misc"
+        ],
+        [
+          "Tiny Fishing",
+          "/assets/images/games/tiny-fishing.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/tiny-fishing/",
+          "Misc"
+        ],
+        [
+          "Toss The Turtle",
+          "/assets/images/games/toss-the-turtle.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=toss-the-turtle.swf",
+          "Flash, Popular"
+        ],
+        [
+          "Townscaper",
+          "/assets/images/games/townscaper.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/townscaper/",
+          "Misc"
+        ],
+        [
+          "Traffic Mania",
+          "/assets/images/games/traffic-mania.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/traffic-mania/",
+          "Misc"
+        ],
+        [
+          "Tunnel Rush",
+          "/assets/images/games/tunnel-rush.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/tunnel-rush/",
+          "Misc"
+        ],
+        [
+          "Turbo Moto Racer",
+          "/assets/images/games/turbo-moto-racer.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/turbo-moto-racer/",
+          "Misc"
+        ],
+        [
+          "Two Punk Racing",
+          "/assets/images/games/two-punk-racing.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/two-punk-racing/",
+          "Misc"
+        ],
+        [
+          "Ultimate Car Driving",
+          "/assets/images/games/ultimate-car-driving.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/ultimate-car-driving/",
+          "Misc"
+        ],
+        [
+          "Ultimate Flash Sonic",
+          "/assets/images/games/ultimate-flash-sonic.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=ultimate-flash-sonic.swf",
+          "Flash"
+        ],
+        [
+          "Under The Red Sky",
+          "/assets/images/games/under-the-red-sky.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/under-the-red-sky/",
+          "Misc"
+        ],
+        [
+          "Unfair Mario",
+          "/assets/images/games/unfair-mario.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=unfair-mario.swf",
+          "Flash"
+        ],
+        [
+          "Universal Paperclips",
+          "/assets/images/games/universal-paperclips.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/universal-paperclips/",
+          "Misc"
+        ],
+        [
+          "Veloce",
+          "/assets/images/games/veloce.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/veloce/",
+          "Misc"
+        ],
+        [
+          "Very Very Plane",
+          "/assets/images/games/very-very-plane.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/very-very-plane/",
+          "Misc"
+        ],
+        [
+          "Vex 3",
+          "/assets/images/games/vex-3.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/vex-3/",
+          "Misc, Series"
+        ],
+        [
+          "Vex 4",
+          "/assets/images/games/vex-4.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/vex-4/",
+          "Misc, Series"
+        ],
+        [
+          "Vex 5",
+          "/assets/images/games/vex-5.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/vex-5/",
+          "Misc, Series"
+        ],
+        [
+          "Vex 6",
+          "/assets/images/games/vex-6.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/vex-6/",
+          "Misc, Series"
+        ],
+        [
+          "Vex 7",
+          "/assets/images/games/vex-7.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/vex-7/",
+          "Misc, Series"
+        ],
+        [
+          "Wario Land 4",
+          "/assets/images/games/wario-land-4.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html?core=autodetect&rom=wario-land-4.gba",
+          "Emulator"
+        ],
+        [
+          "Waterworks",
+          "/assets/images/games/waterworks.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/waterworks/",
+          "Misc"
+        ],
+        [
+          "We Become What We Behold",
+          "/assets/images/games/we-become-what-we-behold.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/we-become-what-we-behold/",
+          "Misc"
+        ],
+        [
+          "Web OSU",
+          "/assets/images/games/web-osu.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/web-osu/",
+          "Misc"
+        ],
+        
+        [
+          "WebRetro",
+          "/assets/images/games/webretro.png",
+          "https://vulen77.global.ssl.fastly.net/games/emulator/index.html",
+          "Apps"
+        ],
+        [
+          "Whack a Mole",
+          "/assets/images/games/whack-a-mole.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/whack-a-mole/",
+          "Misc"
+        ],
+        [
+          "Wheely 1",
+          "/assets/images/games/wheely-1.png",
+          "https://vulen77.global.ssl.fastly.net/games/flash/index.html?swf=wheely-1.swf",
+          "Flash"
+        ],
+        [
+          "Wii",
+          "/assets/images/games/wii.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/wii/",
+          "Apps"
+        ],
+        [
+          "Wolfenstien 3D",
+          "/assets/images/games/wolfenstien-3d.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/wolfenstien-3d/",
+          "Misc"
+        ],
+        [
+          "Wordle",
+          "/assets/images/games/wordle.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/wordle/",
+          "Misc"
+        ],
+        [
+          "X Trial Racing",
+          "/assets/images/games/x-trial-racing.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/x-trial-racing/",
+          "Misc"
+        ],
+        [
+          "Xbox 360",
+          "/assets/images/games/xbox-360.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/xbox-360/",
+          "Apps"
+        ],
+        [
+          "xx142-b2.exe",
+          "/assets/images/games/xx142-b2exe.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/xx142-b2exe/",
+          "Misc"
+        ],
+        [
+          "YoHoHo.io",
+          "/assets/images/games/yohohoio.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/yohohoio/",
+          "Misc"
+        ],
+        [
+          "Yoshi's Fabrication Station",
+          "/assets/images/games/yoshis-fabrication-station.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/yoshis-fabrication-station/",
+          "Misc"
+        ],
+        [
+          "You Are Jeff Bezos",
+          "/assets/images/games/you-are-jeff-bezos.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/you-are-jeff-bezos/",
+          "Misc"
+        ],
+        [
+          "Zombs Royale",
+          "/assets/images/games/zombs-royale.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/zombs-royale/",
+          "Misc"
+        ],
+        [
+          "Zombie Derby: Pixel Survival",
+          "/assets/images/games/zombie-derby-pixel-survival.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/zombie-derby-pixel-survival/",
+          "Misc"
+        ],
+        [
+          "ZType",
+          "/assets/images/games/ztype.png",
+          "https://vulen77.global.ssl.fastly.net/games/other/ztype/",
+          "Misc"
+        ]
+      ]
+    }
+  ]
+}

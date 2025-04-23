@@ -8,7 +8,7 @@
 <hr>
 
  ## Current Version
-[__v2.02.7__ - December 9, 2024](https://vulen77.web.app/pages/changelog.html)
+[__v3.02.4__ - April 22, 2025](https://vulen77.global.ssl.fastly.net/pages/changelog.html)
 
 <hr>
 
@@ -36,5 +36,5 @@
 <hr>
 
 ```
-© Vulen Corp 2024
+© Vulen Corp 2025
 ```

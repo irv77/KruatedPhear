@@ -12,6 +12,268 @@ const logArr = [
   },
   **/
   {
+    version: `3.02.4`,
+    date: `April 21, 2025 `,
+    list: [
+      {
+        label: [`add`],
+        detail: `Added Archery World Tour`
+      },
+      {
+        label: [`add`],
+        detail: `Added Astro Survivors`
+      },
+      {
+        label: [`add`],
+        detail: `Added A Small World Cup`
+      },
+      {
+        label: [`add`],
+        detail: `Added Happy Wheels`
+      },
+      {
+        label: [`add`],
+        detail: `Added Spacebar Clicker`
+      },
+      {
+        label: [`add`],
+        detail: `Added Spiral Roll`
+      },
+      {
+        label: [`add`],
+        detail: `Added Police Chase`
+      },
+      {
+        label: [`add`],
+        detail: `Added Zombie Derby: Pixel Survival`
+      },
+      {
+        label: [`system`],
+        detail: `Fixed some mobile UI`
+      },
+      {
+        label: [`system`],
+        detail: `Organized Game Codes`
+      }
+    ]
+  },
+  {
+    version: `3.02.0`,
+    date: `April 10, 2025 `,
+    list: [
+      {
+        label: [`system`],
+        detail: `Redesigned certain UI`
+      },
+      {
+        label: [`system`],
+        detail: `Launched another URL`
+      }
+    ]
+  },
+  {
+    version: `3.01.4`,
+    date: `March 31, 2025 `,
+    list: [
+      {
+        label: [`add`],
+        detail: `Added Pokey Stick`
+      },
+      {
+        label: [`add`],
+        detail: `Added FLIPTHEGUN`
+      },
+      {
+        label: [`system`],
+        detail: `Renamed Kruated Phear URL`
+      },
+      {
+        label: [`system`],
+        detail: `Integrated shared website launcher`
+      }
+    ]
+  },
+  {
+    version: `3.01.2`,
+    date: `March 15, 2025 `,
+    list: [
+      {
+        label: [`add`],
+        detail: `Added Cactus McCoy`
+      },
+      {
+        label: [`add`],
+        detail: `Added OpenTTD`
+      },
+      {
+        label: [`add`],
+        detail: `Added Minicraft`
+      },
+      {
+        label: [`add`],
+        detail: `Added Snail Bob`
+      }
+    ]
+  },
+  {
+    version: `3.01.0`,
+    date: `March 10, 2025 `,
+    list: [
+      {
+        label: [`add`],
+        detail: `Added Iron Snout`
+      },
+      {
+        label: [`add`],
+        detail: `Added Hills of Steel`
+      },
+      {
+        label: [`system`],
+        detail: `Akura Myth now public`
+      }
+    ]
+  },
+  {
+    version: `3.00.9`,
+    date: `February 9, 2025 `,
+    list: [
+      {
+        label: [`add`],
+        detail: `Added One Chance`
+      },
+      {
+        label: [`add`],
+        detail: `Added Under The Red Sky`
+      },
+      {
+        label: [`add`],
+        detail: `Added Super Fowlst`
+      },
+      {
+        label: [`add`],
+        detail: `Added Spelunky`
+      },
+      {
+        label: [`add`],
+        detail: `Added The Final Earth 2`
+      },
+      {
+        label: [`add`],
+        detail: `Added Like A King!`
+      },
+      {
+        label: [`add`],
+        detail: `Added Ball Mayhem`
+      },
+      {
+        label: [`add`],
+        detail: `Added Wii`
+      },
+      {
+        label: [`add`],
+        detail: `Added Xbox 360`
+      },
+      {
+        label: [`add`],
+        detail: `Added 60 Seconds Burger Run`
+      }
+    ]
+  },
+  {
+    version: `3.00.7`,
+    date: `February 4, 2025 `,
+    list: [
+      {
+        label: [`add`],
+        detail: `Added Dadish`
+      },
+      {
+        label: [`add`],
+        detail: `Added Choppy Orc`
+      },
+      {
+        label: [`add`],
+        detail: `Added Cow Bay`
+      },
+      {
+        label: [`add`],
+        detail: `Added Candy Crush`
+      },
+      {
+        label: [`add`],
+        detail: `Added Bad Piggies`
+      },
+      {
+        label: [`add`],
+        detail: `Added Burrito Bison: Launcha Libre`
+      },
+      {
+        label: [`add`],
+        detail: `Added Block Blast`
+      },
+      {
+        label: [`system`],
+        detail: `K.P.D. now public`
+      }
+    ]
+  },
+  {
+    version: `3.00.5`,
+    date: `February 2, 2025 `,
+    list: [
+      {
+        label: [`add`],
+        detail: `Added Plants vs. Zombies`
+      },
+      {
+        label: [`add`],
+        detail: `Added Santy Is Home`
+      },
+      {
+        label: [`add`],
+        detail: `Added We Become What We Behold`
+      },
+      {
+        label: [`add`],
+        detail: `Added Space Garden`
+      },
+      {
+        label: [`add`],
+        detail: `Added The Visitor Returns`
+      },
+      {
+        label: [`system`],
+        detail: `Main website brought back online again!`
+      }
+    ]
+  },
+  {
+    version: `3.00.3`,
+    date: `January 2, 2025 `,
+    list: [
+      {
+        label: [`add`],
+        detail: `Added Johnny Rocketfingers 2`
+      },
+      {
+        label: [`add`],
+        detail: `Added Kiwi Clicker`
+      },
+      {
+        label: [`update`],
+        detail: `Huge UI update`
+      },
+      {
+        label: [`system`],
+        detail: `Optimized code to v3.00.0`
+      },
+      {
+        label: [`remove`],
+        detail: `Removed a few unpopular games`
+      }
+    ]
+  },
+  {
     version: `2.02.7`,
     date: `December 9, 2024 `,
     list: [
